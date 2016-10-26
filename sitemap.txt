@@ -1,11 +1,11 @@
 
-http://localhost:4000/drim/blog/
-http://localhost:4000/drim/cv/
-http://localhost:4000/drim/feed.xml
-http://localhost:4000/drim/
-http://localhost:4000/drim/css/main.css
-http://localhost:4000/drim/misc/
-http://localhost:4000/drim/research/
-http://localhost:4000/drim/sitemap.txt
+http://dsrim.github.io/blog/
+http://dsrim.github.io/cv/
+http://dsrim.github.io/feed.xml
+http://dsrim.github.io/
+http://dsrim.github.io/css/main.css
+http://dsrim.github.io/misc/
+http://dsrim.github.io/research/
+http://dsrim.github.io/sitemap.txt
 
-http://localhost:4000/drim/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
+http://dsrim.github.io/blog/2016/02/08/Chewbaca-is-talking-in-his-sleep
