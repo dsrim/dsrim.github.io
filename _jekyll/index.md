@@ -70,7 +70,7 @@ partial differential equations (PDEs) and inverse problems
 
 ### Contact
 
-Lewis Hall <br />
+Lewis Hall 214<br />
 Applied Mathematics <br />
 University of Washington <br />
 Seattle, WA, USA <br />
