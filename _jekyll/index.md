@@ -45,7 +45,7 @@ My advisors are [Randall J. LeVeque] and [Gunther Uhlmann].
 
 My interests are in the numerical analysis of 
 partial differential equations (PDEs) and inverse problems
-* Uncertainty quantification (UQ) via of nonlinear hyperbolic systems of conservation laws via reduced order models (ROMs). 
+* Uncertainty quantification (UQ) concerning nonlinear hyperbolic systems of conservation laws, via reduced order models (ROMs). 
 * Target applications are geophysical problems: probabilistic tsunami hazard assessment (PTHA) and statistical tsunami source inversion. 
 * Inverse anisotropic conductivity from power densities in dimension three.
 
