@@ -7,6 +7,7 @@ pubs:
                 partial differential equations" 
       author:   "D. Rim, S. Moe, and R. J. LeVeque"
       journal:  "Preprint."
+      arxiv:   "https://arxiv.org/abs/1701.07529"
       year:     "2016"
 
     - title:   "Generating random earthquake events for probabilistic tsunami hazard assessment (PTHA)"
