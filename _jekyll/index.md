@@ -16,6 +16,13 @@ pubs:
       arxiv:   "https://arxiv.org/abs/1701.07529"
       year:     "2017"
 
+    - title:   "An elementary proof that symplectic matrices have determinant one"
+      author:  "D. Rim"
+      journal: "Accepted to Adv. Dyn. Syst. Appl."
+      year:    "2017"
+      arxiv:   "http://arxiv.org/abs/1505.04240" 
+
+
     - title:   "Generating random earthquake events for probabilistic tsunami hazard assessment (PTHA)"
       author:  "R. J. LeVeque, K. Waagan, F. I. Gonzalez, D. Rim, and G. Lin"
       journal: "Pure Appl. Geophys."
@@ -23,12 +30,7 @@ pubs:
       doi:     "http://dx.doi.org/10.1007/s00024-016-1357-1"
       url:     "http://link.springer.com/article/10.1007%2Fs00024-016-1357-1"
       arxiv:   "https://arxiv.org/abs/1605.02863"
-
-    - title:   "An elementary proof that symplectic matrices have determinant one"
-      author:  "D. Rim"
-      journal: "Preprint."
-      year:    "2015"
-      arxiv:   "http://arxiv.org/abs/1505.04240" 
+      numbers: "173(12), 3671-3692"
 
     - title:    "Explicit error estimates for Courant, Crouzeix-Raviart and Raviart-Thomas finite element methods"
       author:   "C. Carstensen, J. Gedicke, and D. Rim"
@@ -70,7 +72,7 @@ partial differential equations (PDEs) and inverse problems
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} (*{{pub.year}}*) 
-{% if pub.numbers %}*{{pub.numbers}}*{% endif %}{% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}
+{% if pub.numbers %}*{{pub.numbers}}*{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
