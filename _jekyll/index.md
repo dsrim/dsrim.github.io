@@ -30,7 +30,7 @@ pubs:
       doi:     "http://dx.doi.org/10.1007/s00024-016-1357-1"
       url:     "http://link.springer.com/article/10.1007%2Fs00024-016-1357-1"
       arxiv:   "https://arxiv.org/abs/1605.02863"
-      numbers: "173(12), 3671-3692"
+      numbers: "173: 3671"
 
     - title:    "Explicit error estimates for Courant, Crouzeix-Raviart and Raviart-Thomas finite element methods"
       author:   "C. Carstensen, J. Gedicke, and D. Rim"
