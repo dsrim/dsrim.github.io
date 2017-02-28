@@ -50,6 +50,8 @@ I am a PhD Candidate of Applied Mathematics at the University of Washington,
 Seattle. <br />
 My advisors are [Randall J. LeVeque] and [Gunther Uhlmann].
 
+* github: [github.com/dsrim]
+
 ### Research Interests
 
 My interests are in the numerical analysis of 
@@ -84,8 +86,7 @@ Applied Mathematics <br />
 University of Washington <br />
 Seattle, WA, USA <br />
 98195-3725 <br />
-Email: [drim@uw.edu]
-github: [github.com/dsrim]
+Email: [drim@uw.edu] <br />
 
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
