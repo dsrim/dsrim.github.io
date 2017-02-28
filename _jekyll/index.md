@@ -85,7 +85,9 @@ University of Washington <br />
 Seattle, WA, USA <br />
 98195-3725 <br />
 Email: [drim@uw.edu]
+github: [github.com/dsrim]
 
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
 [drim@uw.edu]: mailto:drim@uw.edu
+[github.com/dsrim]: http://github.com/dsrim/
