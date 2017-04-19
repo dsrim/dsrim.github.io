@@ -18,9 +18,11 @@ pubs:
 
     - title:   "An elementary proof that symplectic matrices have determinant one"
       author:  "D. Rim"
-      journal: "Accepted to Adv. Dyn. Syst. Appl."
+      journal: "Adv. Dyn. Syst. Appl."
       year:    "2017"
+      url:      "http://www.ripublication.com/adsa17/adsav12n1_03.pdf"
       arxiv:   "http://arxiv.org/abs/1505.04240" 
+      numbers: "12 (1) 15-20"
 
 
     - title:   "Generating random earthquake events for probabilistic tsunami hazard assessment (PTHA)"
