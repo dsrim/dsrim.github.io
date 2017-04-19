@@ -22,7 +22,7 @@ pubs:
       year:    "2017"
       url:      "http://www.ripublication.com/adsa17/adsav12n1_03.pdf"
       arxiv:   "http://arxiv.org/abs/1505.04240" 
-      numbers: "12 (1) 15-20"
+      numbers: "12 (1), 15-20"
 
 
     - title:   "Generating random earthquake events for probabilistic tsunami hazard assessment (PTHA)"
