@@ -9,6 +9,13 @@ pubs:
       journal:  "In preparation."
       year:     "2017"
 
+    - title:    "Dimensional splitting of hyperbolic partial differential
+                 equations using the Radon transform" 
+      author:   "D. Rim"
+      journal:  "Preprint."
+      arxiv:   "https://arxiv.org/abs/1705.03609"
+      year:     "2017"
+
     - title:    "Transport reversal for model reduction of hyperbolic
                 partial differential equations" 
       author:   "D. Rim, S. Moe, and R. J. LeVeque"
