@@ -43,6 +43,8 @@
 .site-nav ul {
     text-align: right;
     float: right;
+    font-size: $base-font-size;
+    vertical-align: bottom;
     letter-spacing: 1px;
     list-style-type: none;
 }

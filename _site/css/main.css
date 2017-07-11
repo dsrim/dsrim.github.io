@@ -34,6 +34,8 @@
 .site-nav ul {
   text-align: right;
   float: right;
+  font-size: medium;
+  vertical-align: bottom;
   letter-spacing: 1px;
   list-style-type: none; }
 
@@ -198,7 +200,7 @@ html {
 
 body {
   font-family: serif;
-  font-size: large;
+  font-size: medium;
   line-height: 1.5;
   color: #222;
   background-color: #fff;

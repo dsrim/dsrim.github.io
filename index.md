@@ -57,8 +57,8 @@ pubs:
 
 I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
 
-Previously, I was a PhD student at the [University of Washington]
-under the supervision of [Randall J. LeVeque] and [Gunther Uhlmann].
+Previously, I was a PhD student at the [University of Washington],
+advised by [Randall J. LeVeque] and [Gunther Uhlmann].
 
 
 ### Research Interests
@@ -92,7 +92,8 @@ partial differential equations (PDEs) and inverse problems
 
 For a full list of relevant numerical softwares, 
 please visit my [github page]. <br >
-([*Top ten reasons to not share your code and why you should anyway*](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway).)
+See also:
+[*Top ten reasons to not share your code (and why you should anyway)*](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway).
 
 ### Contact
 <sub>500 W 120th St<br />
