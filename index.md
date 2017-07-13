@@ -96,7 +96,8 @@ See also:
 [*Top ten reasons to not share your code (and why you should anyway)*](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway).
 
 ### Contact
-<sub>500 W 120th St 200 Mudd<br />
+<sub>500 W. 120th St 200 S.W. Mudd<br />
+Mail Code: 4701 <br />
 Applied Physics and Applied Mathematics <br />
 Columbia University<br />
 New York, NY, USA <br />
