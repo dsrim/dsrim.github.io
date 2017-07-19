@@ -1,6 +1,6 @@
 title: Donsub Rim
 description: Personal webpage of Donsub Rim
-sourcecode: "https://github.com/dsrim.github.io"
+sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
