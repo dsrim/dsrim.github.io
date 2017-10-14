@@ -19,7 +19,7 @@ pubs:
     - title:    "Transport reversal for model reduction of hyperbolic
                 partial differential equations" 
       author:   "D. Rim, S. Moe, and R. J. LeVeque"
-      journal:  "Preprint."
+      journal:  "Accepted, SIAM/ASA J. Uncertainty Quantification"
       arxiv:   "https://arxiv.org/abs/1701.07529"
       year:     "2017"
 
