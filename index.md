@@ -3,10 +3,10 @@ layout: page
 title: 
 permalink: /
 pubs:
-    - title:    "Imaging of three-dimensional anisotropic conductivities from
-                 power density measurements," 
+    - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
-      journal:  "In preparation."
+      journal:  "Preprint"
+      arxiv:    "http://arxiv.org/abs/1711.03137"
       year:     "2017"
 
     - title:    "Dimensional splitting of hyperbolic partial differential
