@@ -3,6 +3,11 @@ layout: page
 title: 
 permalink: /
 pubs:
+    - title:    "Displacement interpolation using monotone rearrangement" 
+      author:   "K.T Mandli and D. Rim"
+      journal:  "In preparation"
+      year:     "2017"
+
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
       journal:  "Preprint"

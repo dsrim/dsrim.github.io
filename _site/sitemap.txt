@@ -1,8 +1,8 @@
 
-http://localhost:4000/cv/
-http://localhost:4000/
-http://localhost:4000/css/main.css
-http://localhost:4000/sitemap.txt
-http://localhost:4000/teaching/
+http://dsrim.github.io/cv/
+http://dsrim.github.io/
+http://dsrim.github.io/css/main.css
+http://dsrim.github.io/sitemap.txt
+http://dsrim.github.io/teaching/
 
-http://localhost:4000/blog/2017/07/01/Partial-Differential-Equations
+http://dsrim.github.io/blog/2017/07/01/Partial-Differential-Equations
