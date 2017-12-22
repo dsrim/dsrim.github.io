@@ -13,6 +13,7 @@ pubs:
       author:   "F. Monard and D. Rim"
       journal:  "Preprint"
       arxiv:    "http://arxiv.org/abs/1711.03137"
+      github:   "http://github.com/dsrim/powerdensity3d"
       year:     "2017"
 
     - title:    "Dimensional splitting of hyperbolic partial differential
@@ -89,7 +90,7 @@ partial differential equations (PDEs) and inverse problems
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} (*{{pub.year}}*) 
-{% if pub.numbers %}*{{pub.numbers}}*{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}
+{% if pub.numbers %}*{{pub.numbers}}*{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
