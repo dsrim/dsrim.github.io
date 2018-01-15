@@ -95,7 +95,7 @@ partial differential equations (PDEs) and inverse problems
 
 {% endfor %}
 
-### Numerical software
+### Numerical Software
 
 For a full list of relevant numerical softwares, 
 please visit my [github page]. <br >
@@ -107,8 +107,7 @@ See also:
 Mail Code: 4701 <br />
 Applied Physics and Applied Mathematics <br />
 Columbia University<br />
-New York, NY, USA <br />
-10027-6623 <br />
+New York, NY, USA, 10027-6623 <br />
 Email: [dr2965@columbia.edu] <br /></sub>
 
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
