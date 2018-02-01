@@ -4,7 +4,7 @@ title:
 permalink: /
 pubs:
     - title:    "Displacement interpolation using monotone rearrangement" 
-      author:   "K.T Mandli and D. Rim"
+      author:   "D. Rim and K.T Mandli"
       journal:  "Preprint"
       arxiv:    "https://arxiv.org/abs/1712.04028"
       year:     "2017"
