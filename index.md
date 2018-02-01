@@ -30,7 +30,6 @@ pubs:
       year:    "2018"
       numbers: "**6** (1), 118-150"
       arxiv:   "https://arxiv.org/abs/1701.07529"
-      year:     "2017"
 
     - title:   "An elementary proof that symplectic matrices have determinant one"
       author:  "D. Rim"
