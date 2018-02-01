@@ -28,6 +28,8 @@ pubs:
       author:   "D. Rim, S. Moe, and R. J. LeVeque"
       journal:  "SIAM/ASA J. Uncertainty Quantification"
       year:    "2018"
+      doi:     "https://doi.org/10.1137/17M1113679"
+      url:     "http://epubs.siam.org/doi/abs/10.1137/17M1113679"
       numbers: "**6** (1), 118-150"
       arxiv:   "https://arxiv.org/abs/1701.07529"
 
@@ -55,6 +57,7 @@ pubs:
       numbers:  "no. 4, 337-353"
       year:     "2012"
       url:      "http://123.57.41.99/Jwk_jcm/EN/abstract/abstract9777.shtml"
+      doi:      "https://doi.org/10.4208/jcm.1108-m3677"
       preprint:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
 
 
