@@ -56,7 +56,7 @@ pubs:
       journal:  "J. Comput. Math. **30**"
       numbers:  "no. 4, 337-353"
       year:     "2012"
-      url:      "http://123.57.41.99/Jwk_jcm/EN/abstract/abstract9777.shtml"
+      url:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
       doi:      "https://doi.org/10.4208/jcm.1108-m3677"
       preprint:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
 
