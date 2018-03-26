@@ -37,7 +37,7 @@ pubs:
       author:  "D. Rim"
       journal: "Adv. Dyn. Syst. Appl."
       year:    "2017"
-      url:      "http://www.ripublication.com/adsa17/adsav12n1_03.pdf"
+      url:   "http://arxiv.org/abs/1505.04240" 
       arxiv:   "http://arxiv.org/abs/1505.04240" 
       numbers: "**12** (1), 15-20"
 
