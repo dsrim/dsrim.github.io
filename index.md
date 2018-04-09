@@ -18,7 +18,7 @@ pubs:
 
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
-      journal:  "accepted to Inverse Problems"
+      journal:  "accepted to Inverse Probl."
       arxiv:    "http://arxiv.org/abs/1711.03137"
       github:   "http://github.com/dsrim/powerdensity3d"
       year:     "2017"
