@@ -3,6 +3,11 @@ layout: page
 title: 
 permalink: /
 pubs:
+    - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
+      author:   "D. Rim and K.T Mandli"
+      journal:  "In preparation"
+      year:     "2018"
+
     - title:    "Displacement interpolation using monotone rearrangement" 
       author:   "D. Rim and K.T Mandli"
       journal:  "Preprint"
