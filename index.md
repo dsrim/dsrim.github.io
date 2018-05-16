@@ -24,10 +24,11 @@ pubs:
 
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
-      journal:  "Accepted to Inverse Probl."
+      journal:  "Inverse Probl."
       arxiv:    "http://arxiv.org/abs/1711.03137"
       github:   "http://github.com/dsrim/powerdensity3d"
-      year:     "2017"
+      numbers:  "**34** (7) 075005"
+      year:     "2018"
 
     - title:    "Transport reversal for model reduction of hyperbolic
                 partial differential equations" 
