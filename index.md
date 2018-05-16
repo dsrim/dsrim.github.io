@@ -27,7 +27,7 @@ pubs:
       journal:  "Inverse Probl."
       arxiv:    "http://arxiv.org/abs/1711.03137"
       github:   "http://github.com/dsrim/powerdensity3d"
-      numbers:  "**34** (7) 075005"
+      numbers:  "**34** (7), 075005"
       year:     "2018"
 
     - title:    "Transport reversal for model reduction of hyperbolic
