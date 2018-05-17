@@ -18,7 +18,7 @@ pubs:
     - title:    "Dimensional splitting of hyperbolic partial differential
                  equations using the Radon transform" 
       author:   "D. Rim"
-      journal:  "Preprint."
+      journal:  "Preprint"
       arxiv:   "https://arxiv.org/abs/1705.03609"
       year:     "2017"
 
