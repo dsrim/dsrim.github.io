@@ -77,7 +77,9 @@ pubs:
 I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
 
 Previously, I was a PhD student at the [University of Washington],
-advised by [Randall J. LeVeque] and [Gunther Uhlmann].
+advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
+
+[[CV], updated 2018/08/07].
 
 
 ### Research Interests
@@ -124,6 +126,7 @@ Email: [dr2965@columbia.edu] <br /></sub>
 
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
+[CV]: files/DonsubRim_CV.pdf
 [dr2965@columbia.edu]: mailto:dr2965@columbia.edu
 [github page]: http://github.com/dsrim/
 [Columbia University]:http://apam.columbia.edu
