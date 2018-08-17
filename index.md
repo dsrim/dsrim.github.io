@@ -7,6 +7,7 @@ pubs:
       author:   "D. Rim and K.T Mandli"
       arxiv:    "https://arxiv.org/abs/1805.05938"
       journal:  "Preprint"
+      github:   "http://github.com/dsrim/mr_burgers1d"
       year:     "2018"
 
     - title:    "Displacement interpolation using monotone rearrangement" 
@@ -90,7 +91,7 @@ partial differential equations (PDEs) and inverse problems
 * Target applications are geophysical problems: probabilistic tsunami hazard assessment (PTHA) and statistical tsunami source inversion. 
 * Inverse anisotropic conductivity from power densities in dimension three.
 
-### Publications and Preprints
+### Publications, Preprints and Numerical Software
 
 {% for pub in page.pubs %}
 {% if pub.image %}
@@ -109,7 +110,7 @@ partial differential equations (PDEs) and inverse problems
 
 {% endfor %}
 
-### Numerical Software
+### More Numerical Software
 
 For a full list of relevant numerical softwares, 
 please visit my [github page]. <br >
