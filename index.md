@@ -10,18 +10,20 @@ pubs:
       github:   "http://github.com/dsrim/mr_burgers1d"
       year:     "2018"
 
-    - title:    "Displacement interpolation using monotone rearrangement" 
-      author:   "D. Rim and K.T Mandli"
-      journal:  "Preprint"
-      arxiv:    "https://arxiv.org/abs/1712.04028"
-      year:     "2017"
-
     - title:    "Dimensional splitting of hyperbolic partial differential
                  equations using the Radon transform" 
       author:   "D. Rim"
       journal:  "Preprint"
       arxiv:   "https://arxiv.org/abs/1705.03609"
       year:     "2017"
+
+    - title:    "Displacement interpolation using monotone rearrangement" 
+      author:   "D. Rim and K.T Mandli"
+      journal:  "SIAM/ASA J. Uncertainty Quantification (accepted)"
+      arxiv:    "https://arxiv.org/abs/1712.04028"
+      github:   "http://github.com/dsrim/dinterp"
+      year:     "2017"
+
 
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
@@ -80,7 +82,7 @@ I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
 Previously, I was a PhD student at the [University of Washington],
 advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[CV], updated 2018/08/07].
+[[CV], updated 2018/09/05].
 
 
 ### Research Interests
