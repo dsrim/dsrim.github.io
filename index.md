@@ -28,6 +28,7 @@ pubs:
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
       journal:  "Inverse Probl."
+      doi:      "https://doi.org/10.1088/1361-6420/aabe5a"
       url:      "http://iopscience.iop.org/article/10.1088/1361-6420/aabe5a/meta"
       arxiv:    "http://arxiv.org/abs/1711.03137"
       github:   "http://github.com/dsrim/powerdensity3d"
@@ -89,9 +90,12 @@ advised by [Randall J. LeVeque] and [Gunther Uhlmann].
 
 My interests are in the numerical analysis of 
 partial differential equations (PDEs) and inverse problems
-* Uncertainty quantification (UQ) concerning nonlinear hyperbolic systems of conservation laws, via reduced order models (ROMs). 
-* Target applications are geophysical problems: probabilistic tsunami hazard assessment (PTHA) and statistical tsunami source inversion. 
-* Inverse anisotropic conductivity from power densities in dimension three.
+* Model reduction of parametrized nonlinear hyperbolic systems of conservation laws
+* Uncertainty quantification (UQ) and inverse problems involving nonlinear hyperbolic PDEs
+* Approximate discrete Radon transform (ADRT) and its applications
+* Applications in geophysics and medical imaging: probabilistic tsunami hazard assessment,
+storm surge prediction, coupled-physics imaging
+
 
 ### Publications, Preprints and Numerical Software
 
@@ -126,6 +130,11 @@ Applied Physics and Applied Mathematics <br />
 Columbia University<br />
 New York, NY, USA, 10027-6623 <br />
 Email: [dr2965@columbia.edu] <br /></sub>
+
+
+{% include image.html url="images/u_sol1d.png" caption="" width="400px"
+align="center" %}
+
 
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
