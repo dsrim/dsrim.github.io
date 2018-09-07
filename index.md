@@ -132,8 +132,6 @@ New York, NY, USA, 10027-6623 <br />
 Email: [dr2965@columbia.edu] <br /></sub>
 
 
-{% include image.html url="images/u_sol1d.png" caption="" width="400px"
-align="center" %}
 
 
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
