@@ -13,7 +13,7 @@ pubs:
     - title:    "Dimensional splitting of hyperbolic partial differential
                  equations using the Radon transform" 
       author:   "D. Rim"
-      journal:  "Preprint"
+      journal:  "SIAM J. Sci. Comput. (accepted)"
       arxiv:   "https://arxiv.org/abs/1705.03609"
       year:     "2017"
 
@@ -83,7 +83,7 @@ I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
 Previously, I was a PhD student at the [University of Washington],
 advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[CV], updated 2018/09/05].
+[[CV], updated 2018/10/23].
 
 
 ### Research Interests
