@@ -19,9 +19,12 @@ pubs:
 
     - title:    "Displacement interpolation using monotone rearrangement" 
       author:   "D. Rim and K.T Mandli"
-      journal:  "SIAM/ASA J. Uncertainty Quantification (accepted)"
+      journal:  "SIAM/ASA J. Uncertainty Quantification"
+      numbers:  "**6** (4), 1503-1531"
       arxiv:    "https://arxiv.org/abs/1712.04028"
       github:   "http://github.com/dsrim/dinterp"
+      url:      "https://epubs.siam.org/doi/abs/10.1137/18M1168315"
+      doi:      "https://doi.org/10.1137/18M1168315"
       year:     "2017"
 
 
@@ -83,7 +86,7 @@ I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
 Previously, I was a PhD student at the [University of Washington],
 advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[CV], updated 2018/10/31].
+[[CV], updated 2018/11/08].
 
 
 ### Research Interests
