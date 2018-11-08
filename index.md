@@ -25,7 +25,7 @@ pubs:
       github:   "http://github.com/dsrim/dinterp"
       url:      "https://epubs.siam.org/doi/abs/10.1137/18M1168315"
       doi:      "https://doi.org/10.1137/18M1168315"
-      year:     "2017"
+      year:     "2018"
 
 
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
