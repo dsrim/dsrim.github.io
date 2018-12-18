@@ -13,9 +13,12 @@ pubs:
     - title:    "Dimensional splitting of hyperbolic partial differential
                  equations using the Radon transform" 
       author:   "D. Rim"
-      journal:  "SIAM J. Sci. Comput. (accepted)"
+      journal:  "SIAM J. Sci. Comput."
+      numbers:  "**40** (6), A4184–A4207."
       arxiv:   "https://arxiv.org/abs/1705.03609"
-      year:     "2017"
+      url:      "https://epubs.siam.org/doi/abs/10.1137/17M1135633"
+      doi:      "https://doi.org/10.1137/17M1135633"
+      year:     "2018"
 
     - title:    "Displacement interpolation using monotone rearrangement" 
       author:   "D. Rim and K.T Mandli"
