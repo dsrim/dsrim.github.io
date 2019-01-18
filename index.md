@@ -81,7 +81,7 @@ pubs:
 
 ---
 
-{% include image.html url="images/coarsevfine_title.png" caption="" width="400px" align="right" %}
+{% include image.html url="images/face.jpg" caption="" width="325px" align="right" %}
 ### About
 
 I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
