@@ -89,7 +89,7 @@ I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
 Previously, I was a PhD student at the [University of Washington],
 advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[CV], updated 2018/12/18].
+[[CV], updated 2019/01/20].
 
 
 ### Research Interests
