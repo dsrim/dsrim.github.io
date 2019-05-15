@@ -1,3 +1,7 @@
+# Webpage of Donsub Rim
+
+This webpage was created by using Much-Worse jekyll theme.
+
 # Much-Worse jekyll theme
 
 This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
