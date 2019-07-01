@@ -103,7 +103,7 @@ splitting, nonlinear dimensionality reduction
 * Applications in geophysics and medical imaging: probabilistic tsunami hazard
 assessment, storm surge prediction, coupled-physics imaging
 
-### Publications, Preprints and Numerical Software
+### Publications / Preprints / Software
 
 {% for pub in page.pubs %}
 {% if pub.image %}
