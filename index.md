@@ -81,7 +81,7 @@ pubs:
 
 ---
 
-{% include image.html url="images/face.jpg" caption="" width="325px" align="right" %}
+{% include image.html url="images/face.jpg" caption="" width="300px" align="right" %}
 ### About
 
 I am a Postdoctoral Associate at the [Courant Institute], working with
@@ -90,7 +90,6 @@ Mathematics at [Columbia University]. I received a PhD at the [University of
 Washington], advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
 [[CV], updated 2019/07/01].
-
 
 ### Research Interests
 
@@ -103,7 +102,6 @@ jaws for uncertainty quantification (UQ) problems
 splitting, nonlinear dimensionality reduction
 * Applications in geophysics and medical imaging: probabilistic tsunami hazard
 assessment, storm surge prediction, coupled-physics imaging
-
 
 ### Publications, Preprints and Numerical Software
 
