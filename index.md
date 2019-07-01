@@ -117,7 +117,7 @@ assessment, storm surge prediction, coupled-physics imaging
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} ({{pub.year}}) 
-{% if pub.numbers %}{{pub.numbers}}{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
+{% if pub.numbers %}{{pub.numbers}}{% endif %}   {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
