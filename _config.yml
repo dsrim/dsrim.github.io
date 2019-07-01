@@ -7,7 +7,8 @@ exclude: ["Makefile", "README.md"]
 
 url: "http://dsrim.github.io"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
-icon: "/images/nyu-courant.png"   # path to icon
+icon: "/images/favicon_gray.gif"   # path to icon
+logo: "/images/nyu-courant.png"   # path to icon
 depturl: "http://cims.nyu.edu/"
 
 author:
