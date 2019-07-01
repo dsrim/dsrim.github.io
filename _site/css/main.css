@@ -8,25 +8,26 @@
   color: #888; }
 
 .site-header a:hover {
-  color: #222;
+  color: #444;
   text-decoration: none; }
 
 .site-title-img {
   margin-top: .85em;
   margin-bottom: 0em;
   margin-right: .65em;
-  width: 1.2em;
-  float: left; }
+  width: 150px;
+  float: right; }
 
 .site-title {
   margin-top: 1em;
   margin-bottom: 1em;
   margin-top: 1em;
   margin-bottom: 1em;
-  padding-left: 0.65em;
+  padding-left: 0.25em;
+  padding-right: 1.00em;
   float: left;
   letter-spacing: 1px;
-  border-left: 1px solid #ccc; }
+  /* border-right: 0.25px solid $line-color; */ }
 
 .site-nav {
   background: #fff; }
@@ -53,10 +54,10 @@
   display: block;
   line-height: 1.2em;
   padding: 4px 10px;
-  color: #222; }
+  color: #444; }
 
 .site-nav .sub-menu a:hover {
-  color: #1a5276; }
+  color: #000; }
 
 .site-nav .sub-menu {
   border-color: #ccc;
@@ -161,13 +162,13 @@
   .site-nav .menu li {
     display: block;
     margin: 0;
-    color: #222; }
+    color: #444; }
 
   .site-nav ul.menu a {
-    color: #222; }
+    color: #444; }
 
   .site-nav ul.menu a:hover {
-    color: #1a5276; }
+    color: #000; }
 
   .site-nav a,
   .site-nav li.current-menu-item > a {
@@ -202,7 +203,7 @@ body {
   font-family: serif;
   font-size: medium;
   line-height: 1.5;
-  color: #222;
+  color: #444;
   background-color: #fff;
   margin: 0 0.75em;
   -webkit-text-size-adjust: 100%; }
@@ -242,10 +243,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold; }
 
 a {
-  color: #1a5276;
+  color: #000;
   text-decoration: none; }
   a:hover {
-    color: #0091ed;
+    color: #1a5276;
     text-decoration: none; }
 
 blockquote {
@@ -283,7 +284,7 @@ pre {
   height: 0.75em;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #222; }
+    fill: #444; }
 
 .footnotes ol li {
   list-style-type: decimal; }
@@ -306,7 +307,7 @@ ul.listing li.listing-item time {
   padding-right: 0.5em; }
 
 ul.listing li.listing-item a {
-  color: #1a5276; }
+  color: #000; }
 
 .site-footer {
   font-size: 0.66em;
@@ -325,7 +326,7 @@ ul.listing li.listing-item a {
   text-decoration: underline; }
 
 .site-footer a:hover {
-  color: #0091ed;
+  color: #1a5276;
   text-decoration: underline; }
 
 .page {

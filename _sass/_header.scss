@@ -18,21 +18,20 @@
     margin-top: .85em;
     margin-bottom: 0em;
     margin-right: .65em;
-    width: 1.2em;
-    float: left;
+    width: 150px;
+    float: right;
 }
-
-
 
 .site-title {
     margin-top: 1em;
     margin-bottom: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
-    padding-left: 0.65em;
+    padding-left: 0.25em;
+    padding-right: 1.00em;
     float: left;
     letter-spacing: 1px;
-    border-left: 1px solid $line-color;
+ /* border-right: 0.25px solid $line-color; */
 }
 
 

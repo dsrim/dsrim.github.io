@@ -14,7 +14,7 @@ pubs:
                  equations using the Radon transform" 
       author:   "D. Rim"
       journal:  "SIAM J. Sci. Comput."
-      numbers:  "**40** (6), A4184–A4207."
+      numbers:  "**40** (6), A4184–A4207"
       arxiv:   "https://arxiv.org/abs/1705.03609"
       url:      "https://epubs.siam.org/doi/abs/10.1137/17M1135633"
       doi:      "https://doi.org/10.1137/17M1135633"
@@ -84,23 +84,25 @@ pubs:
 {% include image.html url="images/face.jpg" caption="" width="325px" align="right" %}
 ### About
 
-I am a Chu Assistant Professor of Applied Mathematics at [Columbia University].
+I am a Postdoctoral Associate at the [Courant Institute], working with
+[Benjamin Peherstorfer]. Previously, I was a Chu Assistant Professor of Applied
+Mathematics at [Columbia University]. I received a PhD at the [University of
+Washington], advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-Previously, I was a PhD student at the [University of Washington],
-advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
-
-[[CV], updated 2019/01/20].
+[[CV], updated 2019/07/01].
 
 
 ### Research Interests
 
-My interests are in the numerical analysis of 
-partial differential equations (PDEs) and inverse problems
-* Model reduction of parametrized nonlinear hyperbolic systems of conservation laws
-* Uncertainty quantification (UQ) and inverse problems involving nonlinear hyperbolic PDEs
-* Approximate discrete Radon transform (ADRT) and its applications
-* Applications in geophysics and medical imaging: probabilistic tsunami hazard assessment,
-storm surge prediction, coupled-physics imaging
+My interests are in the numerical analysis of partial differential equations
+(PDEs) and inverse problems
+
+* Model reduction of parametrized nonlinear hyperbolic systems of conservation
+jaws for uncertainty quantification (UQ) problems 
+* Approximate discrete Radon transform (ADRT) and its applications: Dimensional
+splitting, nonlinear dimensionality reduction
+* Applications in geophysics and medical imaging: probabilistic tsunami hazard
+assessment, storm surge prediction, coupled-physics imaging
 
 
 ### Publications, Preprints and Numerical Software
@@ -117,7 +119,7 @@ storm surge prediction, coupled-physics imaging
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} (*{{pub.year}}*) 
-{% if pub.numbers %}*{{pub.numbers}}*{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
+{% if pub.numbers %}{{pub.numbers}}{% endif %} {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %} {% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
@@ -130,20 +132,14 @@ See also:
 [*Top ten reasons to not share your code (and why you should anyway)*](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway).
 
 ### Contact
-<sub>500 W. 120th St 200 S.W. Mudd<br />
-Mail Code: 4701 <br />
-Applied Physics and Applied Mathematics <br />
-Columbia University<br />
-New York, NY, USA, 10027-6623 <br />
-Email: [dr2965@columbia.edu] <br /></sub>
+<sub>Email: [dr1653@nyu.edu]</sub>
 
-
-
-
+[Benjamin Peherstorfer]: https://cims.nyu.edu/~pehersto
+[Courant Institute]: https://cims.nyu.edu/
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
 [CV]: files/Donsub_Rim_CV.pdf
-[dr2965@columbia.edu]: mailto:dr2965@columbia.edu
+[dr1653@nyu.edu]: mailto:dr1653@nyu.edu
 [github page]: http://github.com/dsrim/
 [Columbia University]:http://apam.columbia.edu
 [University of Washington]:http://amath.washington.edu
