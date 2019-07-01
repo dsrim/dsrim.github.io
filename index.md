@@ -85,10 +85,11 @@ pubs:
 ### About
 
 I am a Postdoctoral Associate at the [Courant Institute], working with
-[Benjamin Peherstorfer]. Previously, I was a Chu Assistant Professor of Applied
-Mathematics at [Columbia University]. I received a PhD in applied math from the
-[University of Washington], where I was advised by [Randall J. LeVeque] and
-[Gunther Uhlmann]. 
+[Benjamin Peherstorfer]. 
+
+Previously, I was a Chu Assistant Professor at [Columbia University]. I
+received a PhD in applied math from the [University of Washington], advised by
+[Randall J. LeVeque] and [Gunther Uhlmann]. 
 
 [[CV], updated 2019/07/01].
 
