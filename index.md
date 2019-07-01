@@ -86,8 +86,9 @@ pubs:
 
 I am a Postdoctoral Associate at the [Courant Institute], working with
 [Benjamin Peherstorfer]. Previously, I was a Chu Assistant Professor of Applied
-Mathematics at [Columbia University]. I received a PhD from the [University of
-Washington], where I was advised by [Randall J. LeVeque] and [Gunther Uhlmann]. 
+Mathematics at [Columbia University]. I received a PhD in applied math from the
+[University of Washington], where I was advised by [Randall J. LeVeque] and
+[Gunther Uhlmann]. 
 
 [[CV], updated 2019/07/01].
 
@@ -117,7 +118,7 @@ assessment, storm surge prediction, coupled-physics imaging
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
 {% endif %} ({{pub.year}}) 
-{% if pub.numbers %}{{pub.numbers}}{% endif %}   {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
+{% if pub.numbers %}{{pub.numbers}}{% endif %}  |  {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
