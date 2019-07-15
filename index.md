@@ -71,8 +71,8 @@ pubs:
 
     - title:    "Explicit error estimates for Courant, Crouzeix-Raviart and Raviart-Thomas finite element methods"
       author:   "C. Carstensen, J. Gedicke, and D. Rim"
-      journal:  "J. Comput. Math. **30**"
-      numbers:  "no. 4, 337-353"
+      journal:  "J. Comput. Math."
+      numbers:  "**30** no. 4, 337-353"
       year:     "2012"
       url:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
       doi:      "https://doi.org/10.4208/jcm.1108-m3677"
@@ -118,8 +118,7 @@ assessment, storm surge prediction, coupled-physics imaging
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} ({{pub.year}}) 
-{% if pub.numbers %}{{pub.numbers}}{% endif %}  |  {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
+{% endif %} {% if pub.numbers %}{{pub.numbers}}{% endif %} ({{pub.year}}) |  {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
