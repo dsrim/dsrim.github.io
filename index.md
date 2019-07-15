@@ -99,7 +99,7 @@ My interests are in the numerical analysis of partial differential equations
 (PDEs) and inverse problems
 
 * Model reduction of parametrized nonlinear hyperbolic systems of conservation
-jaws for uncertainty quantification (UQ) problems 
+laws for uncertainty quantification (UQ) problems 
 * Approximate discrete Radon transform (ADRT) and its applications: Dimensional
 splitting, nonlinear dimensionality reduction
 * Applications in geophysics and medical imaging: probabilistic tsunami hazard
