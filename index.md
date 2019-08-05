@@ -3,6 +3,13 @@ layout: page
 title: 
 permalink: /
 pubs:
+    - title:    "Exact and Fast Inversion of the Approximate Discrete Radon
+      Transform" 
+      author:   "D. Rim"
+      arxiv:    "https://arxiv.org/abs/1908.00887"
+      journal:  "Preprint"
+      year:     "2019"
+
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
       author:   "D. Rim and K.T Mandli"
       arxiv:    "https://arxiv.org/abs/1805.05938"
