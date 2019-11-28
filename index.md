@@ -6,10 +6,11 @@ pubs:
     - title:    "Exact and fast inversion of the approximate discrete Radon
       transform from partial data" 
       author:   "D. Rim"
-      arxiv:    "https://arxiv.org/abs/1908.00887"
-      journal:  "Accepted, Appl. Math."
+      arxiv:    "https://doi.org/10.1016/j.aml.2019.106159"
+      journal:  "Appl. Math."
       year:     "2019"
-
+      numbers:  "106159"
+    
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
       author:   "D. Rim and K.T Mandli"
       arxiv:    "https://arxiv.org/abs/1805.05938"
