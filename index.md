@@ -9,7 +9,8 @@ pubs:
       url:      "https://doi.org/10.1016/j.aml.2019.106159"
       arxiv:    "https://arxiv.org/abs/1908.00887"
       journal:  "Appl. Math."
-      year:     "2019"
+      numbers:  "**102** "
+      year:     "2020"
       numbers:  "106159"
     
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
