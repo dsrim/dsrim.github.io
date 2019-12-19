@@ -3,6 +3,8 @@ layout: page
 title: 
 permalink: /
 pubs:
+    
+
     - title:    "Exact and fast inversion of the approximate discrete Radon
       transform from partial data" 
       author:   "D. Rim"
@@ -11,6 +13,13 @@ pubs:
       journal:  "Appl. Math."
       numbers:  "**102** 106159"
       year:     "2020"
+    
+    - title:    "The Effects of Earthquake Kinematics on Tsunami Propagation" 
+      author:   "A. Williamson, D. Melgar, D. Rim"
+      url:      "https://doi.org/10.1029/2019JB017522"
+      journal:  "J. Geophys. Res. Solid Earth"
+      numbers:  "**124**"
+      year:     "2019"
     
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
       author:   "D. Rim and K.T Mandli"
