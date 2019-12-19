@@ -8,6 +8,7 @@ pubs:
     - title:    "Exact and fast inversion of the approximate discrete Radon
       transform from partial data" 
       author:   "D. Rim"
+      url:      "https://www.sciencedirect.com/science/article/pii/S0893965919304859?via%3Dihub"
       url:      "https://doi.org/10.1016/j.aml.2019.106159"
       arxiv:    "https://arxiv.org/abs/1908.00887"
       journal:  "Appl. Math."
