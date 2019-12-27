@@ -11,6 +11,7 @@ pubs:
       url:      "https://www.sciencedirect.com/science/article/pii/S0893965919304859?via%3Dihub"
       url:      "https://doi.org/10.1016/j.aml.2019.106159"
       arxiv:    "https://arxiv.org/abs/1908.00887"
+      doi:      "https://doi.org/10.1016/j.aml.2019.106159"
       journal:  "Appl. Math."
       numbers:  "**102** 106159"
       year:     "2020"
@@ -20,6 +21,7 @@ pubs:
       url:      "https://doi.org/10.1029/2019JB017522"
       journal:  "J. Geophys. Res. Solid Earth"
       numbers:  "**124**"
+      doi:      "https://doi.org/10.1029/2019JB017522"
       year:     "2019"
     
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
