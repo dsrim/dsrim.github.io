@@ -4,6 +4,11 @@ title:
 permalink: /
 pubs:
     
+    - title:    "Manifold Approximations via Transported Subspaces: Model reduction for transport-dominated problems" 
+      author:   "D. Rim, B. Peherstorfer, K.T. Mandli"
+      arxiv:    "https://arxiv.org/abs/1912.13024"
+      journal:  "Preprint"
+      year:     "2019"
 
     - title:    "Exact and fast inversion of the approximate discrete Radon
       transform from partial data" 
@@ -25,7 +30,7 @@ pubs:
       year:     "2019"
     
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
-      author:   "D. Rim and K.T Mandli"
+      author:   "D. Rim and K.T. Mandli"
       arxiv:    "https://arxiv.org/abs/1805.05938"
       journal:  "Preprint"
       github:   "http://github.com/dsrim/mr_burgers1d"
@@ -42,7 +47,7 @@ pubs:
       year:     "2018"
 
     - title:    "Displacement interpolation using monotone rearrangement" 
-      author:   "D. Rim and K.T Mandli"
+      author:   "D. Rim and K.T. Mandli"
       journal:  "SIAM/ASA J. Uncertainty Quantification"
       numbers:  "**6** (4), 1503-1531"
       arxiv:    "https://arxiv.org/abs/1712.04028"
