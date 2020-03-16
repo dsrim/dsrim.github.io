@@ -17,7 +17,7 @@ pubs:
       url:      "https://doi.org/10.1016/j.aml.2019.106159"
       arxiv:    "https://arxiv.org/abs/1908.00887"
       doi:      "https://doi.org/10.1016/j.aml.2019.106159"
-      journal:  "Appl. Math."
+      journal:  "Appl. Math. Lett."
       numbers:  "**102** 106159"
       year:     "2020"
     
@@ -25,7 +25,7 @@ pubs:
       author:   "A. Williamson, D. Melgar, D. Rim"
       url:      "https://doi.org/10.1029/2019JB017522"
       journal:  "J. Geophys. Res. Solid Earth"
-      numbers:  "**124**"
+      numbers:  "**124** 11639-11650"
       doi:      "https://doi.org/10.1029/2019JB017522"
       year:     "2019"
     
@@ -117,7 +117,7 @@ Previously, I was a Chu Assistant Professor at [Columbia University]. I
 received a PhD in applied math from the [University of Washington], advised by
 [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[CV], updated 2019/07/01].
+[[CV], updated 2020/03/16].
 
 ### Research Interests
 
