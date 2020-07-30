@@ -4,6 +4,12 @@ title:
 permalink: /
 pubs:
     
+    - title:    "Depth separation for reduced deep networks in nonlinear model reduction: Distilling shock waves in nonlinear hyperbolic problems" 
+      author:   "D. Rim, L. Venturi, J. Bruna, B. Peherstorfer"
+      arxiv:    "https://arxiv.org/abs/2007.13977"
+      journal:  "Preprint"
+      year:     "2020"
+    
     - title:    "Manifold Approximations via Transported Subspaces: Model reduction for transport-dominated problems" 
       author:   "D. Rim, B. Peherstorfer, K.T. Mandli"
       arxiv:    "https://arxiv.org/abs/1912.13024"
