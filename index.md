@@ -130,11 +130,11 @@ received a PhD in applied math from the [University of Washington], advised by
 My interests are in the numerical analysis of partial differential equations
 (PDEs) and inverse problems
 
-* Nonlinear model reduction methods using deep neural networks for parametrized
-nonlinear systems of hyperbolic conservation laws: approximation theory and
-constructive algorithms
-* Approximate discrete Radon transform (ADRT) and its applications: Fast
-inversion, dimensional splitting, nonlinear dimensionality reduction, sparse approxiamtions
+* Nonlinear model reduction methods using deep neural networks (DNNs) for
+parametrized nonlinear systems of hyperbolic conservation laws
+* Approximate discrete Radon transform (ADRT) and its applications: fast
+inversion, dimensional splitting, nonlinear dimensionality reduction, sparse
+approxiamtions
 * Applications in geophysics and medical imaging: probabilistic tsunami hazard
 assessment (PTHA), storm surge prediction, coupled-physics imaging
 
