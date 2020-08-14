@@ -1,0 +1,7 @@
+<div class="listtwocol">
+    <ul>
+    {% for person in include.people %}
+    <li> <a href="{{ person.webpage }}">{{person.name}}</a> </li>
+    {% endfor %}
+    </ul>
+</div>

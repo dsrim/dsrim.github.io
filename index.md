@@ -2,16 +2,76 @@
 layout: page
 title: 
 permalink: /
-pubs:
+people:
+    - name:     "Loyce M. Adams"
+      webpage:  "http://faculty.washington.edu/lma3/"
 
-    - title:    "A Source Clustering Approach for Efficient Inundation Modeling
-      and Regional Scale PTHA" 
-      author:   "A. Williamson, D. Rim, L. Adams, R.J. LeVeque, D. Melgar, F.I.
-        Gonzalez"
-      arxiv:    "https://eartharxiv.org/yreqw"
+    - name:     "Joan Bruna"
+      webpage:  "https://cims.nyu.edu/~bruna/"
+
+    - name:     "Carsten Carstensen"
+      webpage:  "https://www.math.hu-berlin.de/~cc/cc_homepage/main/index.shtml"
+
+    - name:     "Qiang Du"
+      webpage:  "https://cm3.apam.columbia.edu/"
+
+    - name:     "Joscha Gedicke"
+      webpage:  "https://ins.uni-bonn.de/staff/gedicke"
+
+    - name:     "Randall J. LeVeque"
+      webpage:  "https://faculty.washington.edu/rjl"
+
+    - name:     "Weilin Li"
+      webpage:  "https://cims.nyu.edu/~weilinli"
+
+    - name:     "Guang Lin"
+      webpage:  "https://www.math.purdue.edu/~lin491/"
+
+    - name:     "Kyle T. Mandli"
+      webpage:  "http://www.columbia.edu/~ktm2132/"
+
+    - name:     "Diego Melgar"
+      webpage:  "https://earthsciences.uoregon.edu/profile/dmelgarm/"
+
+    - name:     "Scott Moe"
+      webpage:  "https://www.linkedin.com/in/scott-moe-a7ab8a127/"
+
+    - name:     "Francois Monard"
+      webpage:  "https://people.ucsc.edu/~fmonard"
+
+    - name:     "Karl Otness"
+      webpage:  "https://www.karlotness.com/"
+
+    - name:     "Benjamin Peherstorfer"
+      webpage:  "https://cims.nyu.edu/~pehersto"
+
+    - name:     "Kui Ren"
+      webpage:  "http://www.columbia.edu/~kr2002"
+
+    - name:     "Gunther Uhlmann"
+      webpage:  "https://sites.math.washington.edu/~gunther"
+
+    - name:     "Karsten Urban"
+      webpage:  "https://www.uni-ulm.de/en/mawi/mawi-numerik/institut/mitarbeiter/prof-dr-karsten-urban/"
+
+    - name:     "Luca Venturi"
+      webpage:  "https://cims.nyu.edu/~venturi"
+
+    - name:     "Knut Waagan"
+      webpage:  "https://www.usit.uio.no/english/about/organisation/rc/dcm/staff/knutwa/"
+
+    - name:     "Gerrit Welper"
+      webpage:  "https://sciences.ucf.edu/math/person/gerrit-welper/"
+
+    - name:     "Amy Williamson"
+      webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
+
+pubs:
+    - title:    "A Source Clustering Approach for Efficient Inundation Modeling and Regional Scale PTHA" 
+      author:   "A. Williamson, D. Rim, L. Adams, R. J. LeVeque, D. Melgar, F. I. Gonzalez"
+      earxiv:   "https://eartharxiv.org/yreqw"
       journal:  "Preprint"
       year:     "2020"
-    
     
     - title:    "Depth separation for reduced deep networks in nonlinear model reduction: Distilling shock waves in nonlinear hyperbolic problems" 
       author:   "D. Rim, L. Venturi, J. Bruna, B. Peherstorfer"
@@ -119,7 +179,6 @@ pubs:
       doi:      "https://doi.org/10.4208/jcm.1108-m3677"
       preprint:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
 
-
 ---
 
 {% include image.html url="images/face.jpg" caption="" width="300px" align="right" %}
@@ -132,7 +191,9 @@ Previously, I was a Chu Assistant Professor at [Columbia University]. I
 received a PhD in applied math from the [University of Washington], advised by
 [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[CV], updated 2020/03/16].
+[[dr1653@nyu.edu]] [[CV]: updated 2020/03/16].
+
+
 
 ### Research Interests
 
@@ -150,20 +211,14 @@ assessment (PTHA), storm surge prediction, coupled-physics imaging
 ### Publications / Preprints / Software
 
 {% for pub in page.pubs %}
-{% if pub.image %}
-{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}
-{% endif %}
+{% if pub.image %}{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}{% endif %}
 {% if pub.url %}[**{{pub.title}}**]({{pub.url}}){% else %}
 {% if pub.arxiv %}[**{{pub.title}}**]({{pub.arxiv}}){% else %}
+{% if pub.earxiv %}[**{{pub.title}}**]({{pub.earxiv}}){% else %}
 {% if pub.preprint %}[**{{pub.title}}**]({{pub.preprint}}){% else %}
-**{{pub.title}}**{% else %}{% endif %}{% endif %}{% endif %}<br />
+**{{pub.title}}**{% else %}{% endif %}{% endif %}{% endif %}{% endif %}<br />
 {{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} {% if pub.numbers %}{{pub.numbers}}{% endif %} ({{pub.year}}) |  {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
-
-{% endfor %}
+*{{pub.journal}}* {% if pub.note %} *({{pub.note}})*{% endif %}{% if pub.numbers %}{{pub.numbers}}{% endif %} ({{pub.year}}) |  {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.earxiv %}[[EarthArXiv]({{pub.earxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}{% endfor %}
 
 ### More Numerical Software
 
@@ -172,8 +227,15 @@ please visit my [github page]. <br >
 See also:
 [*Top ten reasons to not share your code (and why you should anyway)*](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway).
 
-### Contact
-<sub>Email: [dr1653@nyu.edu]</sub>
+### Collaborators
+
+{% comment %}
+{% for person in page.people %}
+{% if person.webpage %}[{{person.name}}]({{person.webpage}})<br />{% else %}{% if person.name %}{{person.name}}{% endif %}{% endif %}{% endfor %}
+{% endcomment %}
+
+{% include listtwocol.html people=page.people %}
+
 
 [Benjamin Peherstorfer]: https://cims.nyu.edu/~pehersto
 [Courant Institute]: https://cims.nyu.edu/

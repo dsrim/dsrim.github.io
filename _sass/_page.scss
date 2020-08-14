@@ -53,3 +53,9 @@
 .post-link {
     display: block;
 }
+
+.listtwocol {
+    margin-bottom: $spacing-unit;
+    column-count: 4;
+    @extend %clearfix;
+}

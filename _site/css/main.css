@@ -342,7 +342,7 @@ ul.listing li.listing-item a {
       min-width: -webkit-calc(15em - (1.5em * 2));
       min-width: calc(15em - (1.5em * 2)); } }
 
-.site-header:after, .site-footer:after, .post:after {
+.site-header:after, .site-footer:after, .post:after, .listtwocol:after {
   content: "";
   display: table;
   clear: both; }
@@ -370,6 +370,10 @@ ul.listing li.listing-item a {
 
 .post-link {
   display: block; }
+
+.listtwocol {
+  margin-bottom: 1.5em;
+  column-count: 4; }
 
 .highlight {
   background: #fff; }
