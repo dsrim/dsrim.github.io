@@ -18,6 +18,9 @@ people:
     - name:     "Joscha Gedicke"
       webpage:  "https://ins.uni-bonn.de/staff/gedicke"
 
+    - name:     "Frank I. Gonzalez"
+      webpage:  "https://www.washington.edu/news/people/frank-gonzalez/"
+
     - name:     "Randall J. LeVeque"
       webpage:  "https://faculty.washington.edu/rjl"
 
