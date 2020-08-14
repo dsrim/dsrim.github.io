@@ -229,11 +229,6 @@ See also:
 
 ### Collaborators
 
-{% comment %}
-{% for person in page.people %}
-{% if person.webpage %}[{{person.name}}]({{person.webpage}})<br />{% else %}{% if person.name %}{{person.name}}{% endif %}{% endif %}{% endfor %}
-{% endcomment %}
-
 {% include listtwocol.html people=page.people %}
 
 
