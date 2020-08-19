@@ -197,7 +197,6 @@ received a PhD in applied math from the [University of Washington], advised by
 [[dr1653@nyu.edu]] [[CV]: updated 2020/03/16].
 
 
-
 ### Research Interests
 
 My interests are in the numerical analysis of partial differential equations
@@ -208,7 +207,8 @@ parametrized nonlinear systems of hyperbolic conservation laws
 * Approximate discrete Radon transform (ADRT) and its applications: fast
 inversion, dimensional splitting, nonlinear dimensionality reduction, sparse
 approxiamtions
-* Applications in geophysics and medical imaging: probabilistic tsunami hazard
+* Computational applications in aerospace engineering, geophysics and
+medical imaging: rocket combustion dynamics, probabilistic tsunami hazard
 assessment (PTHA), storm surge prediction, coupled-physics imaging
 
 ### Publications / Preprints / Software
