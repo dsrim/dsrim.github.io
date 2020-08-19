@@ -188,14 +188,14 @@ pubs:
 ### About
 
 I am a Postdoctoral Associate at the [Courant Institute], working with
-[Benjamin Peherstorfer]. 
+[Benjamin Peherstorfer]. I am a member of the team of researchers working on
+[multi-fidelity modeling of rocket combustion dynamics].
 
 Previously, I was a Chu Assistant Professor at [Columbia University]. I
 received a PhD in applied math from the [University of Washington], advised by
 [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
 [[dr1653@nyu.edu]] [[CV]: updated 2020/03/16].
-
 
 ### Research Interests
 
@@ -244,3 +244,4 @@ See also:
 [github page]: http://github.com/dsrim/
 [Columbia University]:http://apam.columbia.edu
 [University of Washington]:http://amath.washington.edu
+[multi-fidelity modeling of rocket combustion dynamics]:https://afcoe.engin.umich.edu/homepage
