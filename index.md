@@ -188,7 +188,7 @@ pubs:
 ### About
 
 I am a Postdoctoral Associate at the [Courant Institute], working with
-[Benjamin Peherstorfer]. I am a member of the team of researchers working on
+[Benjamin Peherstorfer]. I am a member of a team of researchers working on
 [multi-fidelity modeling of rocket combustion dynamics].
 
 Previously, I was a Chu Assistant Professor at [Columbia University]. I
