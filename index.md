@@ -160,6 +160,7 @@ pubs:
       journal: "Adv. Dyn. Syst. Appl."
       year:    "2017"
       url:   "http://arxiv.org/abs/1505.04240" 
+      doi:   "https://dx.doi.org/10.37622/ADSA/12.1.2017.15-20"
       arxiv:   "http://arxiv.org/abs/1505.04240" 
       numbers: "**12** (1), 15-20"
 
