@@ -70,10 +70,16 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "A range characterization of single-quadrant ADRT" 
+      author:   "W. Li, K. Ren, D. Rim"
+      arxiv:    "http://arxiv.org/abs/2010.05360"
+      journal:  "Preprint"
+      year:     "2020"
+    
     - title:    "A Source Clustering Approach for Efficient Inundation Modeling and Regional Scale PTHA" 
       author:   "A. Williamson, D. Rim, L. Adams, R. J. LeVeque, D. Melgar, F. I. Gonzalez"
       earxiv:   "https://eartharxiv.org/yreqw"
-      journal:  "Preprint"
+      journal:  "Accepted"
       year:     "2020"
     
     - title:    "Depth separation for reduced deep networks in nonlinear model reduction: Distilling shock waves in nonlinear hyperbolic problems" 
@@ -231,7 +237,7 @@ please visit my [github page]. <br >
 See also:
 [*Top ten reasons to not share your code (and why you should anyway)*](https://sinews.siam.org/Details-Page/top-ten-reasons-to-not-share-your-code-and-why-you-should-anyway).
 
-### Collaborators
+### People
 
 {% include listtwocol.html people=page.people %}
 
