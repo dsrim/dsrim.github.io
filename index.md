@@ -79,7 +79,10 @@ pubs:
     - title:    "A Source Clustering Approach for Efficient Inundation Modeling and Regional Scale PTHA" 
       author:   "A. Williamson, D. Rim, L. Adams, R. J. LeVeque, D. Melgar, F. I. Gonzalez"
       earxiv:   "https://eartharxiv.org/yreqw"
-      journal:  "Accepted"
+      url:      "https://doi.org/10.3389/feart.2020.591663"
+      doi:      "https://doi.org/10.3389/feart.2020.591663"
+      journal:  "Front. Earth Sci."
+      numbers:  "**8**:442"
       year:     "2020"
     
     - title:    "Depth separation for reduced deep networks in nonlinear model reduction: Distilling shock waves in nonlinear hyperbolic problems" 
