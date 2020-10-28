@@ -216,7 +216,7 @@ My interests are in the numerical analysis of partial differential equations
 parametrized nonlinear systems of hyperbolic conservation laws
 * Approximate discrete Radon transform (ADRT) and its applications: fast
 inversion, dimensional splitting, nonlinear dimensionality reduction, sparse
-approxiamtions
+approximations
 * Computational applications in aerospace engineering, geophysics and
 medical imaging: rocket combustion dynamics, probabilistic tsunami hazard
 assessment (PTHA), storm surge prediction, coupled-physics imaging
