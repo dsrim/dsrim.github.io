@@ -205,7 +205,7 @@ Previously, I was a Chu Assistant Professor at [Columbia University]. I
 received a PhD in applied math from the [University of Washington], advised by
 [Randall J. LeVeque] and [Gunther Uhlmann]. 
 
-[[dr1653@nyu.edu]] [[CV]: updated 2020/03/16].
+[[dr1653@nyu.edu]] [[CV]: updated 2020/11/11].
 
 ### Research Interests
 
