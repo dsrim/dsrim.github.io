@@ -4,5 +4,6 @@ http://dsrim.github.io/
 http://dsrim.github.io/css/main.css
 http://dsrim.github.io/sitemap.txt
 http://dsrim.github.io/teaching/
+http://dsrim.github.io/css/main.css.map
 
 http://dsrim.github.io/blog/2017/07/01/Partial-Differential-Equations

@@ -70,6 +70,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
+      author:   "C.M. Liu, D. Rim, R. Baraldi, R.J. LeVeque" 
+      earxiv:   "https://eartharxiv.org/repository/view/2267/"
+      journal:  "Preprint"
+      year:     "2021"
+
     - title:    "A range characterization of the single-quadrant ADRT" 
       author:   "W. Li, K. Ren, D. Rim"
       arxiv:    "http://arxiv.org/abs/2010.05360"
@@ -197,15 +203,15 @@ pubs:
 {% include image.html url="images/face.jpg" caption="" width="300px" align="right" %}
 ### About
 
-I am a Postdoctoral Associate at the [Courant Institute], working with
-[Benjamin Peherstorfer]. I am a member of a team of researchers working on
-[multi-fidelity modeling of rocket combustion dynamics].
+I am an Assistant Professor at the [Mathematics and Statistics Department] in 
+[Washington University in St. Louis]. 
 
-Previously, I was a Chu Assistant Professor at [Columbia University]. I
-received a PhD in applied math from the [University of Washington], advised by
-[Randall J. LeVeque] and [Gunther Uhlmann]. 
+Previously, I was a Postdoctoral Associate at the [Courant Institute] and a Chu
+Assistant Professor at [Columbia University]. I received a PhD in applied math
+from the [University of Washington], advised by [Randall J. LeVeque] and
+[Gunther Uhlmann].
 
-[[dr1653@nyu.edu]] [[CV]: updated 2020/11/25].
+[[rim@wustl.edu]] [[CV]: updated 2021/07/01].
 
 ### Research Interests
 
@@ -244,14 +250,13 @@ See also:
 
 {% include listtwocol.html people=page.people %}
 
-
-[Benjamin Peherstorfer]: https://cims.nyu.edu/~pehersto
 [Courant Institute]: https://cims.nyu.edu/
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
 [CV]: files/Donsub_Rim_CV.pdf
-[dr1653@nyu.edu]: mailto:dr1653@nyu.edu
-[github page]: http://github.com/dsrim/
-[Columbia University]:http://apam.columbia.edu
-[University of Washington]:http://amath.washington.edu
-[multi-fidelity modeling of rocket combustion dynamics]:https://afcoe.engin.umich.edu/homepage
+[rim@wustl.edu]: mailto:rim@wustl.edu
+[github page]: https://github.com/dsrim/
+[Columbia University]:https://apam.columbia.edu
+[University of Washington]:https://amath.washington.edu
+[Mathematics and Statistics Department]:https://math.wustl.edu
+[Washington University in St. Louis]:https://wustl.edu
