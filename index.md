@@ -203,8 +203,8 @@ pubs:
 {% include image.html url="images/face.jpg" caption="" width="300px" align="right" %}
 ### About
 
-I am an Assistant Professor at the [Mathematics and Statistics Department] in 
-[Washington University in St. Louis]. 
+I am an Assistant Professor at the [Department of Mathematics and Statistics]
+in [Washington University in St. Louis]. 
 
 Previously, I was a Postdoctoral Associate at the [Courant Institute] and a Chu
 Assistant Professor at [Columbia University]. I received a PhD in applied math
@@ -258,5 +258,5 @@ See also:
 [github page]: https://github.com/dsrim/
 [Columbia University]:https://apam.columbia.edu
 [University of Washington]:https://amath.washington.edu
-[Mathematics and Statistics Department]:https://math.wustl.edu
+[Department of Mathematics and Statistics]:https://math.wustl.edu
 [Washington University in St. Louis]:https://wustl.edu
