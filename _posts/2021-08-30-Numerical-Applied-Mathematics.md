@@ -27,7 +27,7 @@ differential equations. Basic programming proficiency will be helpful but is not
 required.
 
 - Instructor: Donsub Rim (rim@wustl.edu)
-- Lectures: MWF 3:00-3:50, Cupples I / 113
+- Lectures: MWF 3:00-3:50, Cupples I / 113 (in-person)
 - Office Hours: TTh 3:00-3:50, Cupples I / 206 
 
 ## Online Discussions 
