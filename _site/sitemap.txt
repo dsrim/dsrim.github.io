@@ -6,4 +6,4 @@ http://dsrim.github.io/sitemap.txt
 http://dsrim.github.io/teaching/
 http://dsrim.github.io/css/main.css.map
 
-http://dsrim.github.io/blog/2017/07/01/Partial-Differential-Equations
+http://dsrim.github.io/blog/2021/08/30/Numerical-Applied-Mathematics
