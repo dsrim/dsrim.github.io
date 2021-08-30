@@ -30,11 +30,6 @@ required.
 - Lectures: MWF 3:00-3:50, Cupples I / 113 (in-person)
 - Office Hours: TTh 3:00-3:50, Cupples I / 206 
 
-## Online Discussions 
-
-- Further course information will be available on Canvas. 
-- Piazza boards will be used for discussion. 
-
 ## Textbook
 
 Endre Süli and David Mayers <br>
@@ -61,6 +56,13 @@ The course will cover following topics, following the textbook. <br>
 12. Initial value problems for ODEs (Ch 12)
 13. Further topics as time allows
 
+## Online Discussions and Software
+
+- Further course information will be available on Canvas. 
+- Piazza boards will be used for discussion. 
+- The programming portion of the course will use Python with NumPy and SciPy
+  libraries. <br> 
+  [Anaconda Python](https://www.anaconda.com/) is recommended.
 
 
 ## Assignments, Exams, Grading
