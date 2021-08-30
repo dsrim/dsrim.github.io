@@ -42,6 +42,27 @@ Endre Süli and David Mayers <br>
 Cambridge University Press <br>
 (ISBN-10: 0521007941)
 
+## Course Outline
+
+The course will cover following topics, following the textbook. <br>
+(The item number will roughly correspond to the week of the semester).
+
+1. Iterative methods for solution of nonlinear equations (Ch 1)
+2. Solution of systems of linear equations (Ch 2)
+3. Simultaneous nonlinear equations (Ch 4)
+4. Eigenvalues and eigenvectors (Ch 5)
+5. Polynomial interpolation (Ch 6)
+6. Numerical interpolation I (Ch 7)
+7. *Midterm Exam*
+8. Polynomial approximation in the inf-norm (Ch 8)
+9. Approximation in the 2-norm (Ch 9)
+10. Numerical integration II (Ch 10)
+11. Piecewise polynomial approximation (Ch 11)
+12. Initial value problems for ODEs (Ch 12)
+13. Further topics as time allows
+
+
+
 ## Assignments, Exams, Grading
 
 There will be weekly assignments during the semester which will consist of 30%
