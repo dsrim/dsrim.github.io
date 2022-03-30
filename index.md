@@ -73,13 +73,15 @@ pubs:
     - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
       author:   "C.M. Liu, D. Rim, R. Baraldi, R.J. LeVeque" 
       earxiv:   "https://eartharxiv.org/repository/view/2267/"
-      journal:  "Preprint"
+      doi:      "https://doi.org/10.1007/s00024-021-02841-9"
+      journal:  "Pure Appl. Geophys."
       year:     "2021"
+      numbers:  "**178** 5129-5153"
 
     - title:    "A range characterization of the single-quadrant ADRT" 
       author:   "W. Li, K. Ren, D. Rim"
       arxiv:    "http://arxiv.org/abs/2010.05360"
-      journal:  "Preprint"
+      journal:  "Accepted to Math. Comp."
       year:     "2020"
     
     - title:    "A Source Clustering Approach for Efficient Inundation Modeling and Regional Scale PTHA" 
