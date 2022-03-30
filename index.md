@@ -70,6 +70,13 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+
+    - title:    "A range characterization of the single-quadrant ADRT" 
+      author:   "W. Li, K. Ren, D. Rim"
+      arxiv:    "http://arxiv.org/abs/2010.05360"
+      journal:  "Accepted to Math. Comp."
+      year:     "2022"
+
     - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
       author:   "C.M. Liu, D. Rim, R. Baraldi, R.J. LeVeque" 
       earxiv:   "https://eartharxiv.org/repository/view/2267/"
@@ -77,12 +84,6 @@ pubs:
       journal:  "Pure Appl. Geophys."
       year:     "2021"
       numbers:  "**178** 5129-5153"
-
-    - title:    "A range characterization of the single-quadrant ADRT" 
-      author:   "W. Li, K. Ren, D. Rim"
-      arxiv:    "http://arxiv.org/abs/2010.05360"
-      journal:  "Accepted to Math. Comp."
-      year:     "2020"
     
     - title:    "A Source Clustering Approach for Efficient Inundation Modeling and Regional Scale PTHA" 
       author:   "A. Williamson, D. Rim, L. Adams, R. J. LeVeque, D. Melgar, F. I. Gonzalez"
