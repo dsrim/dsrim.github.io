@@ -74,7 +74,8 @@ pubs:
     - title:    "A range characterization of the single-quadrant ADRT" 
       author:   "W. Li, K. Ren, D. Rim"
       arxiv:    "http://arxiv.org/abs/2010.05360"
-      journal:  "Accepted to Math. Comp."
+      doi:      "https://doi.org/10.1090/mcom/3750"
+      journal:  "Math. Comp."
       year:     "2022"
 
     - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
