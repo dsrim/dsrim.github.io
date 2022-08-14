@@ -70,14 +70,6 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
-    - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
-      author:   "C.M. Liu, D. Rim, R. Baraldi, R.J. LeVeque" 
-      earxiv:   "https://eartharxiv.org/repository/view/2267/"
-      url:      "https://doi.org/10.1007/s00024-021-02841-9"
-      doi:      "https://doi.org/10.1007/s00024-021-02841-9"
-      journal:  "Pure Appl. Geophys."
-      year:     "2021"
-
     - title:    "A range characterization of the single-quadrant ADRT" 
       author:   "W. Li, K. Ren, D. Rim"
       arxiv:    "http://arxiv.org/abs/2010.05360"
