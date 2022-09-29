@@ -70,6 +70,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
+      author:   "D. Rim, R. Baraldi, C.M. Liu, R.J. LeVeque, K. Terada"
+      earxiv:   "https://eartharxiv.org/repository/view/3624/"
+      journal:  "Preprint"
+      year:     "2022"
+
     - title:    "A range characterization of the single-quadrant ADRT" 
       author:   "W. Li, K. Ren, D. Rim"
       arxiv:    "http://arxiv.org/abs/2010.05360"
