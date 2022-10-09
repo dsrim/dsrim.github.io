@@ -73,7 +73,7 @@ pubs:
     - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
       author:   "D. Rim, R. Baraldi, C.M. Liu, R.J. LeVeque, K. Terada"
       earxiv:   "https://eartharxiv.org/repository/view/3624/"
-      journal:  "Preprint"
+      journal:  "(accepted to) Geophys. Res. Lett"
       year:     "2022"
 
     - title:    "A range characterization of the single-quadrant ADRT" 
@@ -109,7 +109,7 @@ pubs:
     - title:    "Manifold Approximations via Transported Subspaces: Model reduction for transport-dominated problems" 
       author:   "D. Rim, B. Peherstorfer, K.T. Mandli"
       arxiv:    "https://arxiv.org/abs/1912.13024"
-      journal:  "Accepted to SIAM J. Sci. Comput."
+      journal:  "(accepted to) SIAM J. Sci. Comput."
       year:     "2019"
 
     - title:    "Exact and fast inversion of the approximate discrete Radon
