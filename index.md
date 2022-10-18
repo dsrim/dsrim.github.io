@@ -73,8 +73,10 @@ pubs:
     - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
       author:   "D. Rim, R. Baraldi, C.M. Liu, R.J. LeVeque, K. Terada"
       earxiv:   "https://eartharxiv.org/repository/view/3624/"
-      journal:  "(accepted to) Geophys. Res. Lett"
+      journal:  "Geophys. Res. Lett."
+      doi:      "https://doi.org/10.1029/2022GL099511"
       year:     "2022"
+      numbers:  "**49** e2022GL099511"
 
     - title:    "A range characterization of the single-quadrant ADRT" 
       author:   "W. Li, K. Ren, D. Rim"
