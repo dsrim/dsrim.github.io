@@ -83,7 +83,8 @@ pubs:
       arxiv:    "http://arxiv.org/abs/2010.05360"
       doi:      "https://doi.org/10.1090/mcom/3750"
       journal:  "Math. Comp."
-      year:     "2022"
+      numbers:  "**92** 283-306"
+      year:     "2023"
 
     - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
       author:   "C.M. Liu, D. Rim, R. Baraldi, R.J. LeVeque" 
