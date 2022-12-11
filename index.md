@@ -15,17 +15,23 @@ people:
     - name:     "Qiang Du"
       webpage:  "https://cm3.apam.columbia.edu/"
 
+    - name:     "Sanghyun Hong"
+      webpage:  "https://sanghyun-hong.com/"
+
     - name:     "Joscha Gedicke"
       webpage:  "https://ins.uni-bonn.de/staff/gedicke"
 
     - name:     "Frank I. Gonzalez"
       webpage:  "https://www.washington.edu/news/people/frank-gonzalez/"
 
-    - name:     "Randall J. LeVeque"
-      webpage:  "https://faculty.washington.edu/rjl"
+    - name:     "Kookjin Lee"
+      webpage:  "https://search.asu.edu/profile/3957975"
 
     - name:     "Weilin Li"
-      webpage:  "https://cims.nyu.edu/~weilinli"
+      webpage:  "https://weilinli.ccny.cuny.edu/"
+
+    - name:     "Randall J. LeVeque"
+      webpage:  "https://faculty.washington.edu/rjl"
 
     - name:     "Guang Lin"
       webpage:  "https://www.math.purdue.edu/~lin491/"
@@ -50,6 +56,9 @@ people:
 
     - name:     "Kui Ren"
       webpage:  "http://www.columbia.edu/~kr2002"
+
+    - name:     "Kenjiro Terada"
+      webpage:  "http://www.cae.civil.tohoku.ac.jp/profile/terada/en/"
 
     - name:     "Gunther Uhlmann"
       webpage:  "https://sites.math.washington.edu/~gunther"
@@ -272,3 +281,4 @@ See also:
 [University of Washington]:https://amath.washington.edu
 [Department of Mathematics and Statistics]:https://math.wustl.edu
 [Washington University in St. Louis]:https://wustl.edu
+[Mastodon]:https://fosstodon.org/@dsrim
