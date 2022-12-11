@@ -232,7 +232,7 @@ Assistant Professor at [Columbia University]. I received a PhD in applied math
 from the [University of Washington], advised by [Randall J. LeVeque] and
 [Gunther Uhlmann].
 
-[[rim@wustl.edu]] [[CV]: updated 2021/07/01] [[Mastodon]].
+[[rim@wustl.edu]] [[CV]: updated 2021/07/01].
 
 ### Research Interests
 
