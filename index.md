@@ -232,7 +232,7 @@ Assistant Professor at [Columbia University]. I received a PhD in applied math
 from the [University of Washington], advised by [Randall J. LeVeque] and
 [Gunther Uhlmann].
 
-[[rim@wustl.edu]] [[CV]: updated 2021/07/01].
+[[rim@wustl.edu]] [[CV]: updated 2021/07/01] [[Mastodon]].
 
 ### Research Interests
 
@@ -271,6 +271,9 @@ See also:
 
 {% include listtwocol.html people=page.people %}
 
+
+<a rel="me" href="https://fosstodon.org/@dsrim"></a>
+
 [Courant Institute]: https://cims.nyu.edu/
 [Randall J. LeVeque]: http://faculty.washington.edu/rjl/
 [Gunther Uhlmann]: http://www.math.washington.edu/~gunther/
@@ -281,4 +284,3 @@ See also:
 [University of Washington]:https://amath.washington.edu
 [Department of Mathematics and Statistics]:https://math.wustl.edu
 [Washington University in St. Louis]:https://wustl.edu
-[Mastodon]:https://fosstodon.org/@dsrim
