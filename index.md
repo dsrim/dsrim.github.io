@@ -79,6 +79,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "adrt: approximate discrete Radon transform for Python" 
+      author:   "K. Otness, D. Rim"
+      journal:  "Submitted"
+      year:     "2023"
+      preprint:  "https://joss.theoj.org/papers/cbf38ae466bfa127e71a2b2ebd2fd4e2"
+
     - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
       author:   "D. Rim, R. Baraldi, C.M. Liu, R.J. LeVeque, K. Terada"
       earxiv:   "https://eartharxiv.org/repository/view/3624/"
