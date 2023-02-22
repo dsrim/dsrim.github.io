@@ -163,7 +163,7 @@ pubs:
                  equations using the Radon transform" 
       author:   "D. Rim"
       journal:  "SIAM J. Sci. Comput."
-      numbers:  "**40** (6), A4184–A4207"
+      numbers:  "**40** (6) A4184–A4207"
       arxiv:   "https://arxiv.org/abs/1705.03609"
       url:      "https://epubs.siam.org/doi/abs/10.1137/17M1135633"
       doi:      "https://doi.org/10.1137/17M1135633"
@@ -187,7 +187,7 @@ pubs:
       url:      "http://iopscience.iop.org/article/10.1088/1361-6420/aabe5a/meta"
       arxiv:    "http://arxiv.org/abs/1711.03137"
       github:   "http://github.com/dsrim/powerdensity3d"
-      numbers:  "**34** (7), 075005"
+      numbers:  "**34** (7) 075005"
       year:     "2018"
 
     - title:    "Transport reversal for model reduction of hyperbolic
@@ -197,7 +197,7 @@ pubs:
       year:    "2018"
       doi:     "https://doi.org/10.1137/17M1113679"
       url:     "http://epubs.siam.org/doi/abs/10.1137/17M1113679"
-      numbers: "**6** (1), 118-150"
+      numbers: "**6** (1) 118-150"
       arxiv:   "https://arxiv.org/abs/1701.07529"
 
     - title:   "An elementary proof that symplectic matrices have determinant one"
@@ -207,7 +207,7 @@ pubs:
       url:   "http://arxiv.org/abs/1505.04240" 
       doi:   "https://dx.doi.org/10.37622/ADSA/12.1.2017.15-20"
       arxiv:   "http://arxiv.org/abs/1505.04240" 
-      numbers: "**12** (1), 15-20"
+      numbers: "**12** (1) 15-20"
 
 
     - title:   "Generating random earthquake events for probabilistic tsunami hazard assessment (PTHA)"
@@ -222,7 +222,7 @@ pubs:
     - title:    "Explicit error estimates for Courant, Crouzeix-Raviart and Raviart-Thomas finite element methods"
       author:   "C. Carstensen, J. Gedicke, and D. Rim"
       journal:  "J. Comput. Math."
-      numbers:  "**30** no. 4, 337-353"
+      numbers:  "**30** no. 4 337-353"
       year:     "2012"
       url:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
       doi:      "https://doi.org/10.4208/jcm.1108-m3677"
