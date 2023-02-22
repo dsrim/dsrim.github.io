@@ -127,8 +127,11 @@ pubs:
     - title:    "Manifold Approximations via Transported Subspaces: Model reduction for transport-dominated problems" 
       author:   "D. Rim, B. Peherstorfer, K.T. Mandli"
       arxiv:    "https://arxiv.org/abs/1912.13024"
-      journal:  "(accepted to) SIAM J. Sci. Comput."
-      year:     "2019"
+      journal:  "SIAM J. Sci. Comput."
+      year:     "2023"
+      numbers:  "**45** (1) A170-A199"
+      url:      "https://epubs.siam.org/doi/10.1137/20M1316998"
+      doi:      "https://doi.org/10.1137/20M1316998"
 
     - title:    "Exact and fast inversion of the approximate discrete Radon
       transform from partial data" 
