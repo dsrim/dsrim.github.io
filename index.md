@@ -82,8 +82,11 @@ pubs:
     - title:    "adrt: approximate discrete Radon transform for Python" 
       author:   "K. Otness, D. Rim"
       journal:  "Submitted"
+      journal:  "J. Open Source Softw."
+      numbers: "**8**(83) 5083"
+      doi:      "https://doi.org/10.21105/joss.05083"
       year:     "2023"
-      preprint:  "https://joss.theoj.org/papers/cbf38ae466bfa127e71a2b2ebd2fd4e2"
+
 
     - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
       author:   "D. Rim, R. Baraldi, C.M. Liu, R.J. LeVeque, K. Terada"
