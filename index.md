@@ -83,7 +83,7 @@ pubs:
       author:   "K. Otness, D. Rim"
       journal:  "Submitted"
       journal:  "J. Open Source Softw."
-      numbers: "**8**(83) 5083"
+      numbers: "**8** (83) 5083"
       doi:      "https://doi.org/10.21105/joss.05083"
       year:     "2023"
 
