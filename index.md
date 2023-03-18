@@ -265,10 +265,11 @@ assessment (PTHA), storm surge prediction, coupled-physics imaging
 {% for pub in page.pubs %}
 {% if pub.image %}{% include image.html url=pub.image caption="" height="100px" align=thumbnail %}{% endif %}
 {% if pub.url %}[**{{pub.title}}**]({{pub.url}}){% else %}
+{% if pub.doi %}[**{{pub.title}}**]({{pub.doi}}){% else %}
 {% if pub.arxiv %}[**{{pub.title}}**]({{pub.arxiv}}){% else %}
 {% if pub.earxiv %}[**{{pub.title}}**]({{pub.earxiv}}){% else %}
 {% if pub.preprint %}[**{{pub.title}}**]({{pub.preprint}}){% else %}
-**{{pub.title}}**{% else %}{% endif %}{% endif %}{% endif %}{% endif %}<br />
+**{{pub.title}}**{% else %}{% endif %}{% endif %}{% endif %}{% endif %}{% endif %}<br />
 {{pub.author}}<br />
 *{{pub.journal}}* {% if pub.note %} *({{pub.note}})*{% endif %}{% if pub.numbers %}{{pub.numbers}}{% endif %} ({{pub.year}}) |  {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}{% if pub.arxiv %}[[arXiv]({{pub.arxiv}})]{% endif %}{% if pub.earxiv %}[[EarthArXiv]({{pub.earxiv}})]{% endif %}{% if pub.preprint %}[[Preprint]({{pub.preprint}})]{% endif %}{% if pub.github %}[[github]({{pub.github}})]{% endif %}{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}{% endfor %}
 
