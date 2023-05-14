@@ -57,6 +57,9 @@ people:
     - name:     "Kui Ren"
       webpage:  "http://www.columbia.edu/~kr2002"
 
+    - name:     "Sanah Suri"
+      webpage:  "https://math.wustl.edu/people/sanah-suri"
+
     - name:     "Kenjiro Terada"
       webpage:  "http://www.cae.civil.tohoku.ac.jp/profile/terada/en/"
 
@@ -79,9 +82,14 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "A Stability Analysis of Neural Networks and Its Application to Tsunami Early Warning" 
+      author:   "D. Rim, S. Suri, S. Hong, K. Lee, R. J. LeVeque"
+      journal:  "Preprint"
+      earxiv:      "https://doi.org/10.31223/X5D954"
+      year:     "2023"
+
     - title:    "adrt: approximate discrete Radon transform for Python" 
       author:   "K. Otness, D. Rim"
-      journal:  "Submitted"
       journal:  "J. Open Source Softw."
       numbers: "**8** (83) 5083"
       doi:      "https://doi.org/10.21105/joss.05083"
