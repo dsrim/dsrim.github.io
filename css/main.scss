@@ -4,11 +4,11 @@
 @charset "utf-8";
 
 //$base-font-family: 'EB Garamond', serif;
-$base-font-family: serif;
+$base-font-family: sans-serif;
 //$base-font-size:   x-large;
 $base-font-size:   medium;
 $small-font-size:  0.875em;
-$vsmall-font-size: 0.66em;
+$vsmall-font-size: 0.5em;
 $large-font-size:   1.1em;
 $base-line-height: 1.5;
 $spacing-unit:     1.5em;
@@ -16,25 +16,30 @@ $spacing-unit:     1.5em;
 $white:         #fff;
 $black:         #000;
 $grey-vlight:   #eee;
-$grey-light:    #ccc;
+$grey-light:    #aaa;
 $grey:          #888;
 $grey-dark:     #444;
 $grey-vdark:    #222;
 $darkblue:      #1a5276;
 $blue:          #0091ed;
 $orange:        #ca6c18;
+$orange-dark:   #b85323;
 $red:           #b6321c;
+$wustlgray:	#3d3d3d;
+$turquoise:     #2b8282;
+$turquoise-light:     #67c8c7;
+$wustlblue: 	#005f85;
 
-$background:        $white;
+$background:        $black;
 $dark-background:   darken($background, 5%);
-$text-color:        $grey-dark;
-$text-light-color:  $grey;
-$url-color:         $black;
-$url-hover-color:   $darkblue;
+$text-color:        $grey-light;
+$text-light-color:  $grey-light;
+$url-color:         $wustlblue;
+$url-hover-color:   $blue;
 $header-text-color: $text-light-color;
 $header-hover-color:$text-color;
 $header-hover-url:  $url-color;
-$line-color:        $grey-light;
+$line-color:        $grey;
 
 // Width of the content area
 $content-width:    50em;

@@ -258,13 +258,12 @@ pubs:
 {% include image.html url="images/face.jpg" caption="" width="300px" align="right" %}
 ### About
 
-I am an Assistant Professor at the [Department of Mathematics and Statistics]
+I am an Assistant Professor at the [Department of Mathematics]
 in [Washington University in St. Louis]. 
 
-Previously, I was a Postdoctoral Associate at the [Courant Institute] and a Chu
-Assistant Professor at [Columbia University]. I received a PhD in applied math
-from the [University of Washington], advised by [Randall J. LeVeque] and
-[Gunther Uhlmann].
+During years prior, I was at the [Courant Institute] and at [Columbia
+University]. I obtained my PhD at the [University of Washington] and my
+advisors were [Randall J. LeVeque] and [Gunther Uhlmann].
 
 [[rim@wustl.edu]] [[CV]: updated 2021/07/01].
 
@@ -278,9 +277,9 @@ parametrized nonlinear systems of hyperbolic conservation laws
 * Approximate discrete Radon transform (ADRT) and its applications: fast
 inversion, dimensional splitting, nonlinear dimensionality reduction, sparse
 approximations
-* Computational applications in aerospace engineering, geophysics and
-medical imaging: rocket combustion dynamics, probabilistic tsunami hazard
-assessment (PTHA), storm surge prediction, coupled-physics imaging
+* Computational applications in geophysics, medical imaging, and plasma
+physics: real-time tsunami and storm surge prediction, coupled-physics imaging,
+and active control of plasma instabilities
 
 ### Publications / Preprints / Software
 
@@ -317,5 +316,5 @@ See also:
 [github page]: https://github.com/dsrim/
 [Columbia University]:https://apam.columbia.edu
 [University of Washington]:https://amath.washington.edu
-[Department of Mathematics and Statistics]:https://math.wustl.edu
+[Department of Mathematics]:https://math.wustl.edu
 [Washington University in St. Louis]:https://wustl.edu
