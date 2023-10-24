@@ -111,7 +111,7 @@ pubs:
 
 
     - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
-      author:   "D. Rim, R. Baraldi, C.M. Liu, R.J. LeVeque, K. Terada"
+      author:   "D. Rim, R. Baraldi, C.M. Liu, R. J. LeVeque, K. Terada"
       earxiv:   "https://eartharxiv.org/repository/view/3624/"
       journal:  "Geophys. Res. Lett."
       doi:      "https://doi.org/10.1029/2022GL099511"
@@ -127,7 +127,7 @@ pubs:
       year:     "2023"
 
     - title:    "Comparison of Machine Learning Approaches for Tsunami Forecasting from Sparse Observations"
-      author:   "C.M. Liu, D. Rim, R. Baraldi, R.J. LeVeque" 
+      author:   "C.M. Liu, D. Rim, R. Baraldi, R. J. LeVeque" 
       earxiv:   "https://eartharxiv.org/repository/view/2267/"
       doi:      "https://doi.org/10.1007/s00024-021-02841-9"
       journal:  "Pure Appl. Geophys."
@@ -150,7 +150,7 @@ pubs:
       year:     "2020"
     
     - title:    "Manifold Approximations via Transported Subspaces: Model reduction for transport-dominated problems" 
-      author:   "D. Rim, B. Peherstorfer, K.T. Mandli"
+      author:   "D. Rim, B. Peherstorfer, K. T. Mandli"
       arxiv:    "https://arxiv.org/abs/1912.13024"
       journal:  "SIAM J. Sci. Comput."
       year:     "2023"
@@ -178,7 +178,7 @@ pubs:
       year:     "2019"
     
     - title:    "Model reduction of a parametrized scalar hyperbolic conservation law using displacement interpolation" 
-      author:   "D. Rim and K.T. Mandli"
+      author:   "D. Rim and K. T. Mandli"
       arxiv:    "https://arxiv.org/abs/1805.05938"
       journal:  "Preprint"
       github:   "http://github.com/dsrim/mr_burgers1d"
@@ -195,7 +195,7 @@ pubs:
       year:     "2018"
 
     - title:    "Displacement interpolation using monotone rearrangement" 
-      author:   "D. Rim and K.T. Mandli"
+      author:   "D. Rim and K. T. Mandli"
       journal:  "SIAM/ASA J. Uncertainty Quantification"
       numbers:  "**6** (4), 1503-1531"
       arxiv:    "https://arxiv.org/abs/1712.04028"
