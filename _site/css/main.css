@@ -1,8 +1,8 @@
 .site-header { border-bottom: 1px solid #888; position: relative; text-transform: uppercase; font-size: 1.1em; }
 
-.site-header, .site-header a { color: #aaa; }
+.site-header, .site-header a { color: #ccc; }
 
-.site-header a:hover { color: #aaa; text-decoration: none; }
+.site-header a:hover { color: #ccc; text-decoration: none; }
 
 .site-title-img { margin-top: .85em; margin-bottom: 0em; margin-right: .65em; width: 35px; float: right; }
 
@@ -16,9 +16,9 @@
 
 .site-nav a { display: block; }
 
-.site-nav .sub-menu a { display: block; line-height: 1.2em; padding: 4px 10px; color: #aaa; }
+.site-nav .sub-menu a { display: block; line-height: 1.2em; padding: 4px 10px; color: #ccc; }
 
-.site-nav .sub-menu a:hover { color: #005f85; }
+.site-nav .sub-menu a:hover { color: #007fce; }
 
 .site-nav .sub-menu { border-color: #888; z-index: 2147483647; }
 
@@ -36,19 +36,19 @@
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link { color: #aaa; }
+.site-nav .page-link { color: #ccc; }
 
 .site-nav .page-link:not(:first-child) { margin-left: 20px; }
 
 @media screen and (max-width: 32em) { .site-nav { position: absolute; top: 9px; right: 20px; border: 1px solid #888; border-radius: 5px; text-align: right; } .site-nav .menu-icon { display: block; float: right; width: 1.5em; height: 1.25em; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg { width: 1.25em; height: 1em; vertical-align: middle; } .site-nav .menu-icon > svg path { fill: #444; } .site-nav .trigger { clear: both; display: none; } .site-nav:hover .trigger { display: block; padding-bottom: 5px; } .site-nav .page-link { display: block; padding: 5px 10px; } }
 
-@media screen and (max-width: 32em) { .site-nav h1 { border-bottom: 1px solid #888; cursor: pointer; display: none; /* Standard. IE8+, Saf, FF3+ */ height: 23px; left: auto; margin-top: 10px; position: static; white-space: nowrap; } .site-nav .menu { display: block; left: -3px; min-width: 215px; padding: 4px 0; position: relative; right: -3px; z-index: 999; } .site-nav .menu.open { display: block; } .site-nav .menu li { display: block; margin: 0; color: #aaa; } .site-nav ul.menu a { color: #aaa; } .site-nav ul.menu a:hover { color: #005f85; } .site-nav a, .site-nav li.current-menu-item > a { padding: 4px 10px; } .site-nav .menu > li { height: auto; text-align: left; } .site-nav .sub-menu { border: 0; display: block; position: relative; min-width: 215px; max-width: 215px; top: auto; right: auto; width: auto; } .site-nav .sub-menu { padding-left: 16px; } }
+@media screen and (max-width: 32em) { .site-nav h1 { border-bottom: 1px solid #888; cursor: pointer; display: none; /* Standard. IE8+, Saf, FF3+ */ height: 23px; left: auto; margin-top: 10px; position: static; white-space: nowrap; } .site-nav .menu { display: block; left: -3px; min-width: 215px; padding: 4px 0; position: relative; right: -3px; z-index: 999; } .site-nav .menu.open { display: block; } .site-nav .menu li { display: block; margin: 0; color: #ccc; } .site-nav ul.menu a { color: #ccc; } .site-nav ul.menu a:hover { color: #007fce; } .site-nav a, .site-nav li.current-menu-item > a { padding: 4px 10px; } .site-nav .menu > li { height: auto; text-align: left; } .site-nav .sub-menu { border: 0; display: block; position: relative; min-width: 215px; max-width: 215px; top: auto; right: auto; width: auto; } .site-nav .sub-menu { padding-left: 16px; } }
 
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 html { overflow-y: scroll; }
 
-body { font-family: sans-serif; font-size: medium; line-height: 1.5; color: #aaa; background-color: #000; margin: 0 0.75em; -webkit-text-size-adjust: 100%; }
+body { font-family: sans-serif; font-size: medium; line-height: 1.5; color: #ccc; background-color: #000; margin: 0 0.75em; -webkit-text-size-adjust: 100%; }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 0.75em; }
 
@@ -66,9 +66,9 @@ li > ul, li > ol { margin-bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: bold; }
 
-a { color: #005f85; text-decoration: none; }
+a { color: #007fce; text-decoration: none; }
 
-a:hover { color: #0091ed; text-decoration: none; }
+a:hover { color: #2b8282; text-decoration: none; }
 
 blockquote { background-color: black; border-left: 4px solid black; padding-left: 1.0em; padding-right: 0.8em; padding-top: 0.8em; padding-bottom: 0.001em; font-style: italic; }
 
@@ -84,25 +84,25 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .icon > svg { display: inline-block; width: 0.75em; height: 0.75em; vertical-align: middle; }
 
-.icon > svg path { fill: #aaa; }
+.icon > svg path { fill: #ccc; }
 
 .footnotes ol li { list-style-type: decimal; }
 
-.footnotes ol { font-size: 0.5em; color: #aaa; }
+.footnotes ol { font-size: 0.5em; color: #ccc; }
 
 ul.listing { list-style-type: none; margin-left: 0; }
 
 ul.listing li.listing-seperator { padding-top: 0.75em; font-size: 1.17em; }
 
-ul.listing li.listing-item time { color: #aaa; text-transform: uppercase; padding-right: 0.5em; }
+ul.listing li.listing-item time { color: #ccc; text-transform: uppercase; padding-right: 0.5em; }
 
-ul.listing li.listing-item a { color: #005f85; }
+ul.listing li.listing-item a { color: #007fce; }
 
-.site-footer { font-size: 0.5em; color: #aaa; border-top: 1px solid #888; padding-top: 1.5em; float: none; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 1.5em; text-align: center; }
+.site-footer { font-size: 0.5em; color: #ccc; border-top: 1px solid #888; padding-top: 1.5em; float: none; margin-left: auto; margin-right: auto; margin-top: 0; margin-bottom: 1.5em; text-align: center; }
 
 .site-footer a { color: inherit; text-decoration: underline; }
 
-.site-footer a:hover { color: #0091ed; text-decoration: underline; }
+.site-footer a:hover { color: #2b8282; text-decoration: underline; }
 
 .page { margin: 0 auto; max-width: -webkit-calc(50em - (1.5em * 2)); max-width: calc(50em - (1.5em * 2)); min-width: -webkit-calc(15em - (1.5em * 2)); min-width: calc(15em - (1.5em * 2)); }
 
@@ -120,7 +120,7 @@ ul.listing li.listing-item a { color: #005f85; }
 
 .post-list > li { margin-bottom: 1.5em; }
 
-.post-meta { font-size: 0.875em; color: #aaa; }
+.post-meta { font-size: 0.875em; color: #ccc; }
 
 .post-link { display: block; }
 
