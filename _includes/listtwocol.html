@@ -1,7 +1,7 @@
 <div class="listtwocol">
     <ul>
     {% for person in include.people %}
-    <li> <a href="{{ person.webpage }}">{{person.name}}</a> </li>
+    {% if person.webpage %}<li> <a href="{{ person.webpage }}">{{person.name}}</a> </li>{% else %}<li>{{person.name}}</li>{% endif %}
     {% endfor %}
     </ul>
 </div>

@@ -12,6 +12,8 @@ people:
     - name:     "Carsten Carstensen"
       webpage:  "https://www.math.hu-berlin.de/~cc/cc_homepage/main/index.shtml"
 
+    - name:     "Woojin Cho"
+
     - name:     "Qiang Du"
       webpage:  "https://cm3.apam.columbia.edu/"
 
@@ -51,8 +53,8 @@ people:
     - name:     "Karl Otness"
       webpage:  "https://www.karlotness.com/"
 
-    - name:     "Benjamin Peherstorfer"
-      webpage:  "https://cims.nyu.edu/~pehersto"
+    - name:     "Noseong Park"
+      webpage:  "https://sites.google.com/view/npark"
 
     - name:     "Kui Ren"
       webpage:  "http://www.columbia.edu/~kr2002"
@@ -86,6 +88,12 @@ pubs:
       author:   "D. Rim, G. Welper"
       journal:  "Preprint"
       arxiv:    "https://arxiv.org/abs/2310.14391"
+      year:     "2023"
+
+    - title:    "Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks"
+      author:   "W. Choi, K. Lee, D. Rim, N. Park"
+      journal:  "NeurIPS (Spotlight)"
+      arxiv:    "https://arxiv.org/abs/2310.09528"
       year:     "2023"
 
     - title:    "A Stability Analysis of Neural Networks and Its Application to Tsunami Early Warning" 
