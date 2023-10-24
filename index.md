@@ -82,6 +82,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "Performance bounds for Reduced Order Models with Application to Parametric Transport" 
+      author:   "D. Rim, G. Welper"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2310.14391"
+      year:     "2023"
+
     - title:    "A Stability Analysis of Neural Networks and Its Application to Tsunami Early Warning" 
       author:   "D. Rim, S. Suri, S. Hong, K. Lee, R. J. LeVeque"
       journal:  "Preprint"
