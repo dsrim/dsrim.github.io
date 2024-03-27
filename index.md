@@ -93,6 +93,7 @@ pubs:
     - title:    "Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks"
       author:   "W. Choi, K. Lee, D. Rim, N. Park"
       journal:  "NeurIPS (Spotlight)"
+      doi:      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/24f8dd1b8f154f1ee0d7a59e368eccf3-Abstract-Conference.html"
       arxiv:    "https://arxiv.org/abs/2310.09528"
       year:     "2023"
 
