@@ -84,6 +84,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "A Low Rank Neural Representation of Entropy Solutions" 
+      author:   "D. Rim, G. Welper"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2406.05694"
+      year:     "2024"
+
     - title:    "Performance bounds for Reduced Order Models with Application to Parametric Transport" 
       author:   "D. Rim, G. Welper"
       journal:  "Preprint"
