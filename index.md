@@ -279,8 +279,7 @@ advisors were [Randall J. LeVeque] and [Gunther Uhlmann].
 My interests are in the numerical analysis of partial differential equations
 (PDEs) and inverse problems
 
-* Nonlinear model reduction methods using deep neural networks (DNNs) for
-parametrized nonlinear systems of hyperbolic conservation laws
+* Nonlinear model reduction methods using Low Rank Neural Representations (LRNRs) for parametrized nonlinear systems of hyperbolic conservation laws
 * Approximate discrete Radon transform (ADRT) and its applications: fast
 inversion, dimensional splitting, nonlinear dimensionality reduction, sparse
 approximations
