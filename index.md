@@ -84,6 +84,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "On the performance of sequential Bayesian update for database of diverse tsunami scenarios" 
+      author:   "R. Nomura, L. A. H. Vermare, S. Fujita, D. Rim, S. Moriguchi, R. J. LeVeque, K. Terada"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2407.03631"
+      year:     "2024"
+
     - title:    "A Low Rank Neural Representation of Entropy Solutions" 
       author:   "D. Rim, G. Welper"
       journal:  "Preprint"
