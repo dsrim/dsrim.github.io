@@ -274,9 +274,15 @@ pubs:
 I am an Assistant Professor at the [Department of Mathematics]
 in [Washington University in St. Louis]. 
 
+I will be on leave during the academic year 2024-2025 to be a Visiting Scholar
+at [University of Washington].
+
+I was a visiting assitant professor at the [International Research Institute of Disaster Science (IRIDeS)] in [Tohoku University] during the summer of 2023.
+
 During years prior, I was at the [Courant Institute] and at [Columbia
 University]. I obtained my PhD at the [University of Washington] and my
 advisors were [Randall J. LeVeque] and [Gunther Uhlmann].
+
 
 [[rim@wustl.edu]] [[CV]: updated 2021/07/01].
 
@@ -330,3 +336,5 @@ See also:
 [University of Washington]:https://amath.washington.edu
 [Department of Mathematics]:https://math.wustl.edu
 [Washington University in St. Louis]:https://wustl.edu
+[International Research Institute of Disaster Science (IRIDeS)]:https://irides.tohoku.ac.jp/eng/
+[Tohoku University]:https://www.tohoku.ac.jp/en/
