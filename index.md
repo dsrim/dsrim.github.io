@@ -283,7 +283,7 @@ in [Washington University in St. Louis].
 I will be on leave during the academic year 2024-2025 to be a Visiting Scholar
 at [University of Washington].
 
-I was a visiting assitant professor at the [International Research Institute of Disaster Science (IRIDeS)] in [Tohoku University] during the summer of 2023.
+I was a visiting assistant professor at the [International Research Institute of Disaster Science (IRIDeS)] in [Tohoku University] during the summer of 2023.
 
 During years prior, I was at the [Courant Institute] and at [Columbia
 University]. I obtained my PhD at the [University of Washington] and my
