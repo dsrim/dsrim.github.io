@@ -86,7 +86,7 @@ people:
 pubs:
     - title:    "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks"
       author:   "F. Wu, W. Cho, D. Korotky, S. Hong, D. Rim, N. Park, K. Lee"
-      journal:  "CIKM `24"
+      journal:  "CIKM24"
       doi:      "https://doi.org/10.1145/3627673.3679751"
       year:     "2024"
 
