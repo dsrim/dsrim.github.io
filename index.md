@@ -84,6 +84,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks"
+      author:   "F. Wu, W. Cho, D. Korotky, S. Hong, D. Rim, N. Park, K. Lee"
+      journal:  "CIKM' 24"
+      doi:      "https://doi.org/10.1145/3627673.3679751"
+      year:     "2024"
+
     - title:    "FastLRNR and Sparse Physics Informed Backpropagation"
       author:   "W. Cho, K. Lee, N. Park, D. Rim, G. Welper"
       journal:  "Preprint"
