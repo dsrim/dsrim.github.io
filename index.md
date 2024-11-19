@@ -86,7 +86,7 @@ people:
 pubs:
     - title:    "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks"
       author:   "F. Wu, W. Cho, D. Korotky, S. Hong, D. Rim, N. Park, K. Lee"
-      journal:  "CIKM24"
+      journal:  "Proceedings of the 33rd ACM International Conference on Knowledge Management"
       doi:      "https://doi.org/10.1145/3627673.3679751"
       year:     "2024"
 
@@ -117,7 +117,8 @@ pubs:
 
     - title:    "Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks"
       author:   "W. Choi, K. Lee, D. Rim, N. Park"
-      journal:  "NeurIPS (Spotlight)"
+      journal:  "Advances in Neural Information Processing Systems"
+      numbers:  "**36** 11219-11231"
       doi:      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/24f8dd1b8f154f1ee0d7a59e368eccf3-Abstract-Conference.html"
       arxiv:    "https://arxiv.org/abs/2310.09528"
       year:     "2023"
@@ -272,7 +273,7 @@ pubs:
 
     - title:    "Explicit error estimates for Courant, Crouzeix-Raviart and Raviart-Thomas finite element methods"
       author:   "C. Carstensen, J. Gedicke, and D. Rim"
-      journal:  "J. Comput. Math."
+      journal:  "Journal of Computational Mathematics"
       numbers:  "**30** no. 4 337-353"
       year:     "2012"
       url:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
