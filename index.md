@@ -50,6 +50,12 @@ people:
     - name:     "Francois Monard"
       webpage:  "https://people.ucsc.edu/~fmonard"
 
+    - name:     "Shuji Moriguchi"
+      webpage:  "https://irides.tohoku.ac.jp/eng/organization/moriguchi_shuji.html"
+
+    - name:     "Reika Nomura"
+      webpage:  "https://sites.google.com/view/reika-nomura/home"
+
     - name:     "Karl Otness"
       webpage:  "https://www.karlotness.com/"
 
@@ -96,10 +102,11 @@ pubs:
       arxiv:    "https://arxiv.org/abs/2410.04001"
       year:     "2024"
 
-    - title:    "On the performance of sequential Bayesian update for database of diverse tsunami scenarios" 
+    - title:    "Comparative Performance of Scenario Superposition by Sequential Bayesian Update for Tsunami Risk Evaluation"
       author:   "R. Nomura, L. A. H. Vermare, S. Fujita, D. Rim, S. Moriguchi, R. J. LeVeque, K. Terada"
       journal:  "Journal of Disaster Research"
       arxiv:    "https://arxiv.org/abs/2407.03631"
+      doi:      "http://dx.doi.org/10.20965/jdr.2024.p0896"
       numbers:  "**19** (6)"
       year:     "2024"
 
