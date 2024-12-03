@@ -132,9 +132,11 @@ pubs:
 
     - title:    "A Stability Analysis of Neural Networks and Its Application to Tsunami Early Warning" 
       author:   "D. Rim, S. Suri, S. Hong, K. Lee, R. J. LeVeque"
-      journal:  "Journal of Geophysical Research: Machine Learning and Computation, accepted"
+      journal:  "J Geophys Res: Machine Learning and Computation"
       earxiv:   "https://doi.org/10.31223/X5D954"
-      year:     "2023"
+      doi:      "https://doi.org/10.1029/2024JH000223"
+      year:     "2024"
+      numbers:  "**1** e2024JH000223"
 
     - title:    "adrt: approximate discrete Radon transform for Python" 
       author:   "K. Otness, D. Rim"
