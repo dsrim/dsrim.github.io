@@ -92,7 +92,7 @@ people:
 pubs:
     - title:    "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks"
       author:   "F. Wu, W. Cho, D. Korotky, S. Hong, D. Rim, N. Park, K. Lee"
-      journal:  "Proceedings of the 33rd ACM International Conference on Knowledge Management"
+      journal:  "CIKM24"
       doi:      "https://doi.org/10.1145/3627673.3679751"
       year:     "2024"
 
@@ -104,7 +104,7 @@ pubs:
 
     - title:    "Comparative Performance of Scenario Superposition by Sequential Bayesian Update for Tsunami Risk Evaluation"
       author:   "R. Nomura, L. A. H. Vermare, S. Fujita, D. Rim, S. Moriguchi, R. J. LeVeque, K. Terada"
-      journal:  "Journal of Disaster Research"
+      journal:  "J Disaster Res"
       arxiv:    "https://arxiv.org/abs/2407.03631"
       doi:      "http://dx.doi.org/10.20965/jdr.2024.p0896"
       numbers:  "**19** (6)"
@@ -124,7 +124,7 @@ pubs:
 
     - title:    "Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks"
       author:   "W. Choi, K. Lee, D. Rim, N. Park"
-      journal:  "Advances in Neural Information Processing Systems"
+      journal:  "Adv Neural Inf Proc Sys (NeurIPS - spotlight)"
       numbers:  "**36** 11219-11231"
       doi:      "https://proceedings.neurips.cc/paper_files/paper/2023/hash/24f8dd1b8f154f1ee0d7a59e368eccf3-Abstract-Conference.html"
       arxiv:    "https://arxiv.org/abs/2310.09528"
@@ -140,7 +140,7 @@ pubs:
 
     - title:    "adrt: approximate discrete Radon transform for Python" 
       author:   "K. Otness, D. Rim"
-      journal:  "Journal of Open Source Software"
+      journal:  "J Open Source Softw"
       numbers: "**8** (83) 5083"
       doi:      "https://doi.org/10.21105/joss.05083"
       year:     "2023"
@@ -149,7 +149,7 @@ pubs:
     - title:    "Tsunami Early Warning from Global Navigation Satellite System Data using Convolutional Neural Networks" 
       author:   "D. Rim, R. Baraldi, C.M. Liu, R. J. LeVeque, K. Terada"
       earxiv:   "https://eartharxiv.org/repository/view/3624/"
-      journal:  "Geophysical Research Letters"
+      journal:  "Geophys Res Lett"
       doi:      "https://doi.org/10.1029/2022GL099511"
       year:     "2022"
       numbers:  "**49** e2022GL099511"
@@ -158,7 +158,7 @@ pubs:
       author:   "W. Li, K. Ren, D. Rim"
       arxiv:    "http://arxiv.org/abs/2010.05360"
       doi:      "https://doi.org/10.1090/mcom/3750"
-      journal:  "Mathematics of Computation"
+      journal:  "Math Comp"
       numbers:  "**92** 283-306"
       year:     "2023"
 
@@ -175,7 +175,7 @@ pubs:
       earxiv:   "https://eartharxiv.org/yreqw"
       url:      "https://doi.org/10.3389/feart.2020.591663"
       doi:      "https://doi.org/10.3389/feart.2020.591663"
-      journal:  "Frontiers of Earth Science"
+      journal:  "Front Earth Sci"
       numbers:  "**8**:442"
       year:     "2020"
     
@@ -188,7 +188,7 @@ pubs:
     - title:    "Manifold Approximations via Transported Subspaces: Model reduction for transport-dominated problems" 
       author:   "D. Rim, B. Peherstorfer, K. T. Mandli"
       arxiv:    "https://arxiv.org/abs/1912.13024"
-      journal:  "SIAM Journal of Scientific Computing"
+      journal:  "SIAM J Sci Comput"
       year:     "2023"
       numbers:  "**45** (1) A170-A199"
       url:      "https://epubs.siam.org/doi/10.1137/20M1316998"
@@ -201,14 +201,14 @@ pubs:
       url:      "https://doi.org/10.1016/j.aml.2019.106159"
       arxiv:    "https://arxiv.org/abs/1908.00887"
       doi:      "https://doi.org/10.1016/j.aml.2019.106159"
-      journal:  "Applied Mathematics Letters"
+      journal:  "Appl Math Lett"
       numbers:  "**102** 106159"
       year:     "2020"
     
     - title:    "The Effects of Earthquake Kinematics on Tsunami Propagation" 
       author:   "A. Williamson, D. Melgar, D. Rim"
       url:      "https://doi.org/10.1029/2019JB017522"
-      journal:  "Journal of Geophysical Research: Solid Earth"
+      journal:  "J Geophys Res: Solid Earth"
       numbers:  "**124** 11639-11650"
       doi:      "https://doi.org/10.1029/2019JB017522"
       year:     "2019"
@@ -223,7 +223,7 @@ pubs:
     - title:    "Dimensional splitting of hyperbolic partial differential
                  equations using the Radon transform" 
       author:   "D. Rim"
-      journal:  "SIAM Journal of Scientific Computing"
+      journal:  "SIAM J Sci Comput"
       numbers:  "**40** (6) A4184–A4207"
       arxiv:   "https://arxiv.org/abs/1705.03609"
       url:      "https://epubs.siam.org/doi/abs/10.1137/17M1135633"
@@ -232,7 +232,7 @@ pubs:
 
     - title:    "Displacement interpolation using monotone rearrangement" 
       author:   "D. Rim and K. T. Mandli"
-      journal:  "SIAM/ASA Journal of Uncertainty Quantification"
+      journal:  "SIAM/ASA J Uncertainty Quantification"
       numbers:  "**6** (4), 1503-1531"
       arxiv:    "https://arxiv.org/abs/1712.04028"
       github:   "http://github.com/dsrim/dinterp"
@@ -243,7 +243,7 @@ pubs:
 
     - title:    "Imaging of isotropic and anisotropic conductivities from power                  densities in three dimensions" 
       author:   "F. Monard and D. Rim"
-      journal:  "Inverse Problems"
+      journal:  "Inverse Probl"
       doi:      "https://doi.org/10.1088/1361-6420/aabe5a"
       url:      "http://iopscience.iop.org/article/10.1088/1361-6420/aabe5a/meta"
       arxiv:    "http://arxiv.org/abs/1711.03137"
@@ -254,7 +254,7 @@ pubs:
     - title:    "Transport reversal for model reduction of hyperbolic
                 partial differential equations" 
       author:   "D. Rim, S. Moe, and R. J. LeVeque"
-      journal:  "SIAM/ASA Journal of Uncertainty Quantification"
+      journal:  "SIAM/ASA J Uncertainty Quantification"
       year:    "2018"
       doi:     "https://doi.org/10.1137/17M1113679"
       url:     "http://epubs.siam.org/doi/abs/10.1137/17M1113679"
@@ -263,7 +263,7 @@ pubs:
 
     - title:   "An elementary proof that symplectic matrices have determinant one"
       author:  "D. Rim"
-      journal: "Advances in Dynamical Systems and Applications"
+      journal: "Adv Dyn Syst Appl"
       year:    "2017"
       url:   "http://arxiv.org/abs/1505.04240" 
       doi:   "https://dx.doi.org/10.37622/ADSA/12.1.2017.15-20"
@@ -273,7 +273,7 @@ pubs:
 
     - title:   "Generating random earthquake events for probabilistic tsunami hazard assessment (PTHA)"
       author:  "R. J. LeVeque, K. Waagan, F. I. Gonzalez, D. Rim, and G. Lin"
-      journal: "Pure and Applied Geophysics"
+      journal: "Pure Appl Geophys"
       year:    "2016"
       doi:     "http://dx.doi.org/10.1007/s00024-016-1357-1"
       url:     "http://link.springer.com/article/10.1007%2Fs00024-016-1357-1"
@@ -282,7 +282,7 @@ pubs:
 
     - title:    "Explicit error estimates for Courant, Crouzeix-Raviart and Raviart-Thomas finite element methods"
       author:   "C. Carstensen, J. Gedicke, and D. Rim"
-      journal:  "Journal of Computational Mathematics"
+      journal:  "J Comput Math"
       numbers:  "**30** no. 4 337-353"
       year:     "2012"
       url:    "https://opus4.kobv.de/opus4-matheon/frontdoor/index/index/docId/931"
