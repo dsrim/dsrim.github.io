@@ -166,7 +166,7 @@ pubs:
       author:   "C.M. Liu, D. Rim, R. Baraldi, R. J. LeVeque" 
       earxiv:   "https://eartharxiv.org/repository/view/2267/"
       doi:      "https://doi.org/10.1007/s00024-021-02841-9"
-      journal:  "Pure and Applied Geophysics"
+      journal: "Pure Appl Geophys"
       year:     "2021"
       numbers:  "**178** 5129-5153"
     
