@@ -90,6 +90,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "An explicit spectral decomposition of the ADRT"
+      author:   "W. Li, K. Otness, K. Ren, D. Rim"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2412.11151"
+      year:     "2024"
+
     - title:    "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks"
       author:   "F. Wu, W. Cho, D. Korotky, S. Hong, D. Rim, N. Park, K. Lee"
       journal:  "CIKM24"
