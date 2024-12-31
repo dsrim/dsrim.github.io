@@ -320,10 +320,11 @@ advisors were [Randall J. LeVeque] and [Gunther Uhlmann].
 My interests are in the numerical analysis of partial differential equations
 (PDEs) and inverse problems
 
-* Nonlinear model reduction methods using Low Rank Neural Representations (LRNRs) for parametrized nonlinear systems of hyperbolic conservation laws
+* Real-time solutions to partial differential equations (PDEs) using Low Rank Neural Representations (LRNRs) with a focus on nonlinear systems of hyperbolic conservation laws
+* Stability analysis of neural networks and their development in high-consequence applications in geophysics such as tsunami early warning
 * Approximate discrete Radon transform (ADRT) and its applications: fast
 inversion, dimensional splitting, nonlinear dimensionality reduction, sparse
-approximations
+approximations, neural networks
 * Computational applications in geophysics, medical imaging, and plasma
 physics: real-time tsunami and storm surge prediction, coupled-physics imaging,
 and active control of plasma instabilities
