@@ -6,6 +6,9 @@ people:
     - name:     "Loyce M. Adams"
       webpage:  "http://faculty.washington.edu/lma3/"
 
+    - name:     "Jacob Blum"
+      webpage:  "https://www.linkedin.com/in/jacob-blum-9aaa22176"
+
     - name:     "Joan Bruna"
       webpage:  "https://cims.nyu.edu/~bruna/"
 
@@ -13,12 +16,22 @@ people:
       webpage:  "https://www.math.hu-berlin.de/~cc/cc_homepage/main/index.shtml"
 
     - name:     "Woojin Cho"
+      webpage:  "https://woojin-cho.github.io"
+
+    - name:     "Minseok Choi"
+      webpage:  "https://sites.google.com/view/choiminseok"
+
+    - name:     "Swarup Dhar"
+      webpage:  "https://math.wustl.edu/people/swarup-dhar"
 
     - name:     "Qiang Du"
       webpage:  "https://cm3.apam.columbia.edu/"
 
     - name:     "Sanghyun Hong"
       webpage:  "https://sanghyun-hong.com/"
+
+    - name:     "Tiana Johnson"
+      webpage:  "https://math.wustl.edu/people/tiana-johnson"
 
     - name:     "Joscha Gedicke"
       webpage:  "https://ins.uni-bonn.de/staff/gedicke"
@@ -64,6 +77,9 @@ people:
 
     - name:     "Kui Ren"
       webpage:  "http://www.columbia.edu/~kr2002"
+
+    - name:     "Victor Song"
+      webpage:  "https://www.mir.wustl.edu/employees/sheng-kwei-victor-song/"
 
     - name:     "Sanah Suri"
       webpage:  "https://math.wustl.edu/people/sanah-suri"
