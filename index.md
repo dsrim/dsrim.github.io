@@ -120,7 +120,7 @@ pubs:
 
     - title:    "FastLRNR and Sparse Physics Informed Backpropagation"
       author:   "W. Cho, K. Lee, N. Park, D. Rim, G. Welper"
-      journal:  "Results Appl. Math. (accepted)"
+      journal:  "Results Appl Math (accepted)"
       arxiv:    "https://arxiv.org/abs/2410.04001"
       year:     "2024"
 
