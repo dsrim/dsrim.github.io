@@ -120,9 +120,10 @@ pubs:
 
     - title:    "FastLRNR and Sparse Physics Informed Backpropagation"
       author:   "W. Cho, K. Lee, N. Park, D. Rim, G. Welper"
-      journal:  "Results Appl Math (accepted)"
+      journal:  "Results Appl Math **25** 100547"
+      doi:      "https://doi.org/10.1016/j.rinam.2025.100547"
       arxiv:    "https://arxiv.org/abs/2410.04001"
-      year:     "2024"
+      year:     "2025"
 
     - title:    "Comparative Performance of Scenario Superposition by Sequential Bayesian Update for Tsunami Risk Evaluation"
       author:   "R. Nomura, L. A. H. Vermare, S. Fujita, D. Rim, S. Moriguchi, R. J. LeVeque, K. Terada"
