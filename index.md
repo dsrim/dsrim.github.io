@@ -106,6 +106,12 @@ people:
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
 pubs:
+    - title:    "Learning Low Rank Neural Representations of Hyperbolic Wave Dynamics from Data"
+      author:   "W. Cho, K. Lee, N. Park, D. Rim, G. Welper"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2510.25123"
+      year:     "2025"
+
     - title:    "An explicit spectral decomposition of the ADRT"
       author:   "W. Li, K. Otness, K. Ren, D. Rim"
       journal:  "Preprint"
@@ -320,10 +326,10 @@ pubs:
 I am an Assistant Professor at the [Department of Mathematics]
 in [Washington University in St. Louis]. 
 
-I will be on leave during the academic year 2024-2025 to be a Visiting Scholar
-at [University of Washington].
-
-I was a visiting assistant professor at the [International Research Institute of Disaster Science (IRIDeS)] in [Tohoku University] during the summer of 2023.
+I was a Visiting Scholar during the academic year 2024-2025 at [University of
+Washington], and a visiting assistant professor at the [International Research
+Institute of Disaster Science (IRIDeS)] in [Tohoku University] during the
+summer of 2023.
 
 During years prior, I was at the [Courant Institute] and at [Columbia
 University]. I obtained my PhD at the [University of Washington] and my
