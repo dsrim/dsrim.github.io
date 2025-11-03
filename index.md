@@ -326,8 +326,8 @@ pubs:
 I am an Assistant Professor at the [Department of Mathematics]
 in [Washington University in St. Louis]. 
 
-I was a Visiting Scholar during the academic year 2024-2025 at [University of
-Washington], and a visiting assistant professor at the [International Research
+I was a Visiting Scholar at [University of Washington] during the academic year
+2024-2025, and a visiting assistant professor at the [International Research
 Institute of Disaster Science (IRIDeS)] in [Tohoku University] during the
 summer of 2023.
 
