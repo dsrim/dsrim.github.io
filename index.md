@@ -66,6 +66,9 @@ people:
     - name:     "Shuji Moriguchi"
       webpage:  "https://irides.tohoku.ac.jp/eng/organization/moriguchi_shuji.html"
 
+    - name:     "Ilyas Mustapha"
+      webpage:  "https://sites.google.com/view/ilyasmustapha/home"
+
     - name:     "Reika Nomura"
       webpage:  "https://sites.google.com/view/reika-nomura/home"
 
@@ -102,6 +105,9 @@ people:
     - name:     "Gerrit Welper"
       webpage:  "https://sciences.ucf.edu/math/person/gerrit-welper/"
 
+    - name:     "Kainen L. Utt"
+      webpage:  "https://kainenutt.com"
+
     - name:     "Amy Williamson"
       webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
 
@@ -110,6 +116,11 @@ pubs:
       author:   "W. Cho, K. Lee, N. Park, D. Rim, G. Welper"
       journal:  "Preprint"
       arxiv:    "https://arxiv.org/abs/2510.25123"
+      year:     "2025"
+
+    - title:    "Accelerated Diffusion Basis Spectrum Imaging with Tensor Computations"
+      author:   "K. L. Utt, J. S. Blum, D. Rim, S-.K. Song"
+      journal:  "Submitted"
       year:     "2025"
 
     - title:    "An explicit spectral decomposition of the ADRT"
