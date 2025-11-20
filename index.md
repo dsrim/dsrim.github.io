@@ -152,7 +152,7 @@ pubs:
 
     - title:    "A Low Rank Neural Representation of Entropy Solutions" 
       author:   "D. Rim, G. Welper"
-      journal:  "Preprint"
+      journal:  "Adv Comp Math (accepted)"
       arxiv:    "https://arxiv.org/abs/2406.05694"
       year:     "2024"
 
