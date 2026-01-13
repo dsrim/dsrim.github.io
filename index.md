@@ -150,11 +150,13 @@ pubs:
       numbers:  "**19** (6)"
       year:     "2024"
 
-    - title:    "A Low Rank Neural Representation of Entropy Solutions" 
+    - title:    "A low-rank neural representation of entropy solutions" 
       author:   "D. Rim, G. Welper"
-      journal:  "Adv Comp Math (accepted)"
+      journal:  "Adv Comp Math"
       arxiv:    "https://arxiv.org/abs/2406.05694"
-      year:     "2024"
+      doi:      "http://dx.doi.org/10.1007/s10444-025-10274-4"
+      numbers:  "**52** 2"
+      year:     "2026"
 
     - title:    "Performance bounds for Reduced Order Models with Application to Parametric Transport" 
       author:   "D. Rim, G. Welper"
