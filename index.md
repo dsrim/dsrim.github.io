@@ -120,8 +120,10 @@ pubs:
 
     - title:    "Accelerated Diffusion Basis Spectrum Imaging with Tensor Computations"
       author:   "K. L. Utt, J. S. Blum, D. Rim, S-.K. Song"
-      journal:  "Accepted, Hum Brain Mapp"
-      year:     "2025"
+      journal:  "Hum Brain Mapp"
+      numbers:  "47, no. 2: e70460"
+      doi:      "https://doi.org/10.1002/hbm.70460"
+      year:     "2026"
 
     - title:    "An explicit spectral decomposition of the ADRT"
       author:   "W. Li, K. Otness, K. Ren, D. Rim"
