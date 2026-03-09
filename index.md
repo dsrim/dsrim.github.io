@@ -27,6 +27,9 @@ people:
     - name:     "Qiang Du"
       webpage:  "https://cm3.apam.columbia.edu/"
 
+    - name:     "Renato Feres"
+      webpage:  "https://www.math.wustl.edu/~feres/"
+
     - name:     "Sanghyun Hong"
       webpage:  "https://sanghyun-hong.com/"
 
@@ -109,9 +112,21 @@ people:
       webpage:  "https://kainenutt.com"
 
     - name:     "Amy Williamson"
-      webpage:  "https://cos.gatech.edu/news/amy-williamson-phd-earth-and-atmospheric-sciences"
+      webpage:  "https://amy-l-williamson.github.io"
+
+    - name:     "Gregory S. Yablonsky"
+      webpage: "https://www.wulacer.com/our_team/gregory-s-yablonsky/"
+
+    - name:     "Jiasong Zhu"
+      webpage:  "https://math.wustl.edu/people/jiasong-zhu"
 
 pubs:
+    - title:    "Pulse-response analysis of a simple reaction-advection-diffusion equation"
+      author:   "J. Zhu, R. Feres, D. Rim, G. Yablonsky"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2603.03533"
+      year:     "2026"
+
     - title:    "Learning Low Rank Neural Representations of Hyperbolic Wave Dynamics from Data"
       author:   "W. Cho, K. Lee, N. Park, D. Rim, G. Welper"
       journal:  "Preprint"
