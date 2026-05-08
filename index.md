@@ -142,7 +142,7 @@ pubs:
 
     - title:    "An explicit spectral decomposition of the ADRT"
       author:   "W. Li, K. Otness, K. Ren, D. Rim"
-      journal:  "Preprint"
+      journal:  "BIT Numer Math, accepted"
       arxiv:    "https://arxiv.org/abs/2412.11151"
       year:     "2024"
 
