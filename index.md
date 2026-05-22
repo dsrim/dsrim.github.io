@@ -177,7 +177,7 @@ pubs:
 
     - title:    "Performance bounds for Reduced Order Models with Application to Parametric Transport" 
       author:   "D. Rim, G. Welper"
-      journal:  "Preprint"
+      journal:  "Constr Approx, accepted"
       arxiv:    "https://arxiv.org/abs/2310.14391"
       year:     "2023"
 
