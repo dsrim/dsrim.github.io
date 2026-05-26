@@ -142,9 +142,11 @@ pubs:
 
     - title:    "An explicit spectral decomposition of the ADRT"
       author:   "W. Li, K. Otness, K. Ren, D. Rim"
-      journal:  "BIT Numer Math, accepted"
+      journal:  "BIT Numer Math"
+      doi:      "https://doi.org/10.1007/s10543-026-01134-8"
       arxiv:    "https://arxiv.org/abs/2412.11151"
-      year:     "2024"
+      numbers:  "**66** 7"
+      year:     "2026"
 
     - title:    "Identifying Contemporaneous and Lagged Dependence Structures by Promoting Sparsity in Continuous-time Neural Networks"
       author:   "F. Wu, W. Cho, D. Korotky, S. Hong, D. Rim, N. Park, K. Lee"
