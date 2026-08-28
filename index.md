@@ -121,6 +121,12 @@ people:
       webpage:  "https://math.wustl.edu/people/jiasong-zhu"
 
 pubs:
+    - title:    "Adversarial Training Without Input Gradients via Low-Rank Householder Expansions"
+      author:   "T.C. Johnson, D. Rim"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2608.26963"
+      year:     "2026"
+
     - title:    "Pulse-response analysis of a simple reaction-advection-diffusion equation"
       author:   "J. Zhu, R. Feres, D. Rim, G. Yablonsky"
       journal:  "Preprint"
