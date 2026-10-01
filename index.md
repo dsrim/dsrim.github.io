@@ -185,9 +185,10 @@ pubs:
 
     - title:    "Performance bounds for Reduced Order Models with Application to Parametric Transport" 
       author:   "D. Rim, G. Welper"
-      journal:  "Constr Approx, accepted"
+      journal:  "Constr Approx"
+      doi:      "https://doi.org/10.1007/s00365-026-09784-1"
       arxiv:    "https://arxiv.org/abs/2310.14391"
-      year:     "2023"
+      year:     "2026"
 
     - title:    "Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks"
       author:   "W. Choi, K. Lee, D. Rim, N. Park"
