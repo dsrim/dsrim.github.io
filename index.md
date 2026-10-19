@@ -121,6 +121,12 @@ people:
       webpage:  "https://math.wustl.edu/people/jiasong-zhu"
 
 pubs:
+    - title:    "Explicit Oblique Inverses of the Approximate Discrete Radon Transform"
+      author:   "D. Rim"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2610.23363"
+      year:     "2026"
+
     - title:    "Adversarial Training Without Input Gradients via Low-Rank Householder Expansions"
       author:   "T.C. Johnson, D. Rim"
       journal:  "Preprint"
