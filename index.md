@@ -121,6 +121,12 @@ people:
       webpage:  "https://math.wustl.edu/people/jiasong-zhu"
 
 pubs:
+    - title:    "Spatially local mini-batching for implicit neural representations"
+      author:   "M. Choi, S. Dhar, H. Kwon, K. Lee, D. Rim"
+      journal:  "Preprint"
+      arxiv:    "https://arxiv.org/abs/2611.22236"
+      year:     "2026"
+
     - title:    "Explicit Oblique Inverses of the Approximate Discrete Radon Transform"
       author:   "D. Rim"
       journal:  "Preprint"
